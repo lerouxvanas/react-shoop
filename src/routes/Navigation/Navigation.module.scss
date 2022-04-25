@@ -1,0 +1,31 @@
+.Navigation {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+
+    .Logo {
+        display: block;
+        max-width: 50px;
+        max-height: 50px;
+        & > g {
+            fill: #333;
+            & > path {
+                fill: #333;
+            }
+        }
+    }
+
+    & > .LinkContainer {
+        flex: 1;
+        display: flex;
+        justify-content: flex-end;
+        align-items: stretch;
+        & > .NavLink {
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #333;
+            font-size: 0.8rem;
+            padding: 5px;
+        }
+    }
+}
