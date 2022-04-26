@@ -1,0 +1,44 @@
+.FormInput {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    & > label {
+        font-size: 0.8rem;
+        color: #999;
+        margin: 0px 5px 5px 5px;
+        letter-spacing: 0.5px;
+        font-weight: 100;
+    }
+
+    & > input {
+        padding: 10px 10px 10px 14px;
+        border-radius: 0px;
+        display: block;
+        border-right: 1px dotted #ccc;
+        width: 100%;
+        box-shadow: inset 4px 0px 0px 0px #ccc;
+        outline: none;
+        font-size: 16px;
+        font-weight: 100;
+        letter-spacing: 0.5px;
+        color: #666;
+        border-top: 0px;
+        border-bottom: 0px;
+        border-left: 0px;
+        background: #fcfcfc;
+    }
+
+    &.error {
+        & > label {
+            color: red;
+        }
+        & > input {
+            border-right: 1px dotted red;
+            box-shadow: inset 4px 0px 0px 0px red;
+            color: red;
+        }
+    }
+}
