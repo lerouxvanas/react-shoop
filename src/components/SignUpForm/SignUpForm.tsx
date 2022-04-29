@@ -107,7 +107,7 @@ const SignUpForm: FC<SignUpFormProps> = (props: SignUpFormProps) => {
                 />
 
                 <div className={styles.FormElement}>
-                    <Button type="submit" label="Sign Up" />
+                    <Button type="submit">Sign Up</Button>
                 </div>
             </form>
         </div>

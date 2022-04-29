@@ -66,3 +66,11 @@ export const createAuthUserWithEmailAndPassword: any = async (
     if (!email || !password) return;
     return await createUserWithEmailAndPassword(auth, email, password);
 };
+
+export const signInEmailAndPassword: any = async (
+    email: string,
+    password: string
+) => {
+    if (!email || !password) return;
+    return await signInWithEmailAndPassword(auth, email, password);
+};

@@ -18,7 +18,7 @@ const Navigation: FC<NavigationProps> = (props: NavigationProps) => {
                     <Link className={styles.NavLink} to="/shop">
                         Shop
                     </Link>
-                    <Link className={styles.NavLink} to="/sign-in">
+                    <Link className={styles.NavLink} to="/auth">
                         Sign In
                     </Link>
                 </div>

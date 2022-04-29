@@ -4,12 +4,12 @@ import styles from './Button.module.scss';
 interface ButtonProps {
     type?: 'button' | 'submit';
     onClick?: () => void;
-    label?: string;
+    children?: React.ReactNode;
     btnType?: 'primary' | 'secondary' | 'inverted';
 }
 
 const Button: FC<ButtonProps> = (props: ButtonProps) => {
-    const { label, type, onClick, btnType } = props;
+    const { children, type, onClick, btnType } = props;
     return (
         <div
             className={`${styles.ButtonWrapper} ${
@@ -17,7 +17,7 @@ const Button: FC<ButtonProps> = (props: ButtonProps) => {
             }`}
             data-testid="Button">
             <button type={type || 'button'} onClick={onClick}>
-                {label}
+                {children}
             </button>
         </div>
     );
