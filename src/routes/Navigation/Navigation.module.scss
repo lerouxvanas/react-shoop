@@ -1,16 +1,18 @@
 .Navigation {
     display: flex;
     align-items: center;
-    padding: 10px;
+    padding: 20px 30px;
+    background-color: #f8f8f8;
+    position: sticky;
+    top: 0px;
 
     .Logo {
         display: block;
         max-width: 50px;
         max-height: 50px;
         & > g {
-            fill: #333;
             & > path {
-                fill: #333;
+                fill: red;
             }
         }
     }

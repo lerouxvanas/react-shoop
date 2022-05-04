@@ -1,4 +1,4 @@
-import React, { FC, useState } from 'react';
+import React, { FC, useState, useContext } from 'react';
 import styles from './SignUpForm.module.scss';
 import {
     createAuthUserWithEmailAndPassword,

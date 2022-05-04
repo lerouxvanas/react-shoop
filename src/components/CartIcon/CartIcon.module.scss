@@ -1,0 +1,16 @@
+.CartIcon {
+    position: relative;
+    margin: 0px 0px 0px 5px;
+    cursor: pointer;
+    & > svg {
+        min-width: 25px;
+    }
+    & > .CartCount {
+        position: absolute;
+        top: 8px;
+        left: 0px;
+        width: 100%;
+        font-size: 0.7rem;
+        user-select: none;
+    }
+}

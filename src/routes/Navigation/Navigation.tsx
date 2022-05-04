@@ -1,11 +1,22 @@
-import React, { FC } from 'react';
+import React, { FC, useContext } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 import styles from './Navigation.module.scss';
 import { ReactComponent as FitLogo } from '../../assets/logo.svg';
+import { UserContext } from '../../contexts/user.context';
+import { CartContext } from '../../contexts/CartContext/CartContext';
+import { signOutUser } from '../../utils/firebase/firebase.utils';
+import CartIcon from '../../components/CartIcon/CartIcon';
+import CartDropDown from '../../components/CartDropDown/CartDropDown';
 
 interface NavigationProps {}
 
 const Navigation: FC<NavigationProps> = (props: NavigationProps) => {
+    const { currentUser } = useContext(UserContext);
+    const { isCartOpen } = useContext(CartContext);
+
+    const handleSignOut = async () => {
+        await signOutUser();
+    };
     return (
         <React.Fragment>
             <div className={styles.Navigation} data-testid="Navigation">
@@ -15,13 +26,30 @@ const Navigation: FC<NavigationProps> = (props: NavigationProps) => {
                     </Link>
                 </div>
                 <div className={styles.LinkContainer}>
+                    {currentUser && (
+                        <Link className={styles.NavLink} to="/shop">
+                            {currentUser?.displayName}
+                        </Link>
+                    )}
+
                     <Link className={styles.NavLink} to="/shop">
                         Shop
                     </Link>
-                    <Link className={styles.NavLink} to="/auth">
-                        Sign In
-                    </Link>
+                    {currentUser === null ? (
+                        <Link className={styles.NavLink} to="/auth">
+                            Sign In
+                        </Link>
+                    ) : (
+                        <Link
+                            className={styles.NavLink}
+                            to="/auth"
+                            onClick={handleSignOut}>
+                            Sign Out
+                        </Link>
+                    )}
+                    <CartIcon />
                 </div>
+                {isCartOpen && <CartDropDown />}
             </div>
             <Outlet />
         </React.Fragment>

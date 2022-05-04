@@ -1,4 +1,4 @@
-import React, { FC, useState } from 'react';
+import React, { FC, useState, useContext } from 'react';
 import FormInput from '../FormInput/FormInput';
 import styles from './SignInForm.module.scss';
 import {
@@ -27,8 +27,6 @@ const SignInForm: FC<SignInFormProps> = (props: SignInFormProps) => {
 
     const logInGoogleUser = async () => {
         const { user } = await signInWithGooglePopup();
-        console.log(user);
-        const userDocRef = await createUserDocumentFromAuth(user);
     };
 
     const resetFormFields = () => {
@@ -40,7 +38,6 @@ const SignInForm: FC<SignInFormProps> = (props: SignInFormProps) => {
 
         try {
             const { user } = await signInEmailAndPassword(email, password);
-
             resetFormFields();
         } catch (err: any) {
             if (err?.code === 'auth/user-not-found') {
