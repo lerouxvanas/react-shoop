@@ -1,0 +1,20 @@
+.CartItem {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+
+    & > div {
+        text-align: left;
+
+        &:nth-of-type(2) {
+            flex: 1;
+        }
+        & > img {
+            display: block;
+            width: 50px;
+            height: 50px;
+            object-fit: cover;
+            background-color: #eee;
+        }
+    }
+}

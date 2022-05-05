@@ -4,11 +4,15 @@ import '@testing-library/jest-dom/extend-expect';
 import ProductCard from './ProductCard';
 
 describe('<ProductCard />', () => {
-  test('it should mount', () => {
-    render(<ProductCard />);
-    
-    const productCard = screen.getByTestId('ProductCard');
+    test('it should mount', () => {
+        render(
+            <ProductCard
+                product={{ id: 0, name: '', price: 0, imageUrl: '' }}
+            />
+        );
 
-    expect(productCard).toBeInTheDocument();
-  });
+        const productCard = screen.getByTestId('ProductCard');
+
+        expect(productCard).toBeInTheDocument();
+    });
 });

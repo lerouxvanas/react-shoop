@@ -7,7 +7,7 @@ import { CartContext } from '../../contexts/CartContext/CartContext';
 interface CartIconProps {}
 
 const CartIcon: FC<CartIconProps> = (props: CartIconProps) => {
-    const { setIsCartOpen, isCartOpen } = useContext(CartContext);
+    const { setIsCartOpen, isCartOpen, cartCount } = useContext(CartContext);
 
     const handleToggleCart = () => {
         setIsCartOpen(!isCartOpen);
@@ -19,7 +19,7 @@ const CartIcon: FC<CartIconProps> = (props: CartIconProps) => {
             data-testid="CartIcon"
             onClick={handleToggleCart}>
             <ShoppingIcon />
-            <span className={styles.CartCount}>0</span>
+            <span className={styles.CartCount}>{cartCount}</span>
         </div>
     );
 };
