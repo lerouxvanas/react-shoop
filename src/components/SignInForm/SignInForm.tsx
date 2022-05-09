@@ -6,7 +6,7 @@ import {
     signInWithGooglePopup,
     createUserDocumentFromAuth,
 } from '../../utils/firebase/firebase.utils';
-import Button from '../Button/Button';
+import Button, { BUTTON_STYLE_TYPE, BUTTON_TYPE } from '../Button/Button';
 
 interface SignInFormProps {}
 
@@ -83,8 +83,10 @@ const SignInForm: FC<SignInFormProps> = (props: SignInFormProps) => {
                 />
 
                 <div className={styles.ButtonWrapper}>
-                    <Button type="submit">Sign In</Button>
-                    <Button btnType="secondary" onClick={logInGoogleUser}>
+                    <Button type={BUTTON_TYPE.submit}>Sign In</Button>
+                    <Button
+                        btnType={BUTTON_STYLE_TYPE.secondary}
+                        onClick={logInGoogleUser}>
                         Sign In with Google
                     </Button>
                 </div>

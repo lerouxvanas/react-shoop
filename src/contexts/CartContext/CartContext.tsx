@@ -1,5 +1,5 @@
 import React, { FC, createContext, useState, useEffect } from 'react';
-import { ProductInterface } from '../ProductsContext/ProductsContext';
+import { ProductInterface } from '../CategoriesContext/CategoriesContext';
 export interface CartItemInterface {
     id: number;
     name: string;

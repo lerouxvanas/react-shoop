@@ -5,7 +5,7 @@ import CategoryContainer from './CategoryContainer';
 
 describe('<CategoryContainer />', () => {
     test('it should mount', () => {
-        render(<CategoryContainer title="" description="" />);
+        render(<CategoryContainer title="" description="" route="" />);
 
         const categoryContainer = screen.getByTestId('CategoryContainer');
 

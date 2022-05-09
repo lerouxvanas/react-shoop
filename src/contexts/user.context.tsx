@@ -58,11 +58,8 @@ export const UserProvider: FC<UserProviderProps> = ({
 
     useEffect(() => {
         const unsubscribe = onAuthStateChangedListener(async (user: any) => {
-            console.log('state user', user);
             if (user) {
                 const userDocRef = await createUserDocumentFromAuth(user);
-                console.log('[userDocRef]', userDocRef);
-                //setCurrentUser(userDocRef);
             }
             setCurrentUser(user);
         });

@@ -5,7 +5,7 @@ import {
     createUserDocumentFromAuth,
 } from '../../utils/firebase/firebase.utils';
 import FormInput from '../FormInput/FormInput';
-import Button from '../Button/Button';
+import Button, { BUTTON_TYPE } from '../Button/Button';
 
 interface SignUpFormProps {}
 
@@ -107,7 +107,7 @@ const SignUpForm: FC<SignUpFormProps> = (props: SignUpFormProps) => {
                 />
 
                 <div className={styles.FormElement}>
-                    <Button type="submit">Sign Up</Button>
+                    <Button type={BUTTON_TYPE.submit}>Sign Up</Button>
                 </div>
             </form>
         </div>

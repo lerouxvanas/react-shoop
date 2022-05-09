@@ -7,6 +7,7 @@ interface CategoryInterface {
     description: string;
     image: string;
     id: string;
+    route: string;
 }
 
 interface CategoriesContainerProps {
@@ -28,6 +29,7 @@ const CategoriesContainer: FC<CategoriesContainerProps> = (
                     description={category.description}
                     key={category.id}
                     image={category.image}
+                    route={category.route}
                 />
             ))}
         </div>

@@ -1,0 +1,7 @@
+.Category {
+    & > h1 {
+        text-transform: capitalize;
+        text-align: left;
+        padding: 0px 10px;
+    }
+}

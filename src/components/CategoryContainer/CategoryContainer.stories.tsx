@@ -5,7 +5,9 @@ export default {
     title: 'CategoryContainer',
 };
 
-export const Default = () => <CategoryContainer title="" description="" />;
+export const Default = () => (
+    <CategoryContainer title="" description="" route="" />
+);
 
 Default.story = {
     name: 'default',

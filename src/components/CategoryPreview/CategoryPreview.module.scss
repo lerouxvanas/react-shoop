@@ -1,0 +1,12 @@
+.CategoryPreview {
+    & > a {
+        color: #333;
+        text-decoration: none;
+        & > h2 {
+            cursor: pointer;
+            text-align: left;
+            padding: 0px 10px;
+            text-transform: capitalize;
+        }
+    }
+}
