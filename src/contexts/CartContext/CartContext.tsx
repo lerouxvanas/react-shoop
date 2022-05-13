@@ -1,4 +1,4 @@
-import React, { FC, createContext, useState, useEffect } from 'react';
+import React, { FC, createContext, useReducer } from 'react';
 import { ProductInterface } from '../CategoriesContext/CategoriesContext';
 export interface CartItemInterface {
     id: number;
@@ -84,38 +84,113 @@ const removeCartItemFromCart = (
     );
 };
 
+const INITIAL_STATE = {
+    isCartOpen: false,
+    cartItems: [],
+    cartCount: 0,
+    cartTotal: 0,
+};
+
+export enum CartReducerActionTypes {
+    SET_CART_ITEMS = 'cart/SET_CART_ITEMS',
+    SET_IS_CART_OPEN = 'cart/SET_IS_CART_OPEN',
+}
+interface ReducerAction {
+    type: CartReducerActionTypes;
+    payload?: any;
+}
+
+interface ReducerState {
+    isCartOpen: boolean;
+    cartItems: CartItemInterface[];
+    cartCount: number;
+    cartTotal: number;
+}
+
+interface CartItemsPayloadInterface {
+    cartItems: CartItemInterface[];
+    cartCount: number;
+    cartTotal: number;
+}
+
+const setCartItemsAction = (
+    payload: CartItemsPayloadInterface
+): ReducerAction => {
+    return {
+        type: CartReducerActionTypes.SET_CART_ITEMS,
+        payload,
+    };
+};
+
+const setIsCartOpenAction = (payload: boolean): ReducerAction => {
+    return {
+        type: CartReducerActionTypes.SET_IS_CART_OPEN,
+        payload,
+    };
+};
+
+const cartReducer = (
+    state: ReducerState,
+    action: ReducerAction
+): ReducerState => {
+    const { type, payload } = action;
+
+    switch (type) {
+        case CartReducerActionTypes.SET_CART_ITEMS:
+            return {
+                ...state,
+                ...payload,
+            };
+        case CartReducerActionTypes.SET_IS_CART_OPEN:
+            return {
+                ...state,
+                isCartOpen: payload,
+            };
+        default:
+            throw new Error(`Unhandled type ${type} in cartReducer`);
+    }
+};
+
 export const CartContextProvider: FC<CartContextProps> = ({
     children,
 }: CartContextProps) => {
-    const [isCartOpen, setIsCartOpen] = useState<boolean>(false);
-    const [cartItems, setCartItems] = useState<CartItemInterface[]>([]);
-    const [cartCount, setCartCount] = useState<number>(0);
-    const [cartTotal, setCartTotal] = useState<number>(0);
+    const [state, dispatch] = useReducer(cartReducer, INITIAL_STATE);
+    const { cartItems, cartCount, cartTotal, isCartOpen } = state;
 
-    useEffect(() => {
-        const newCartCount = cartItems.reduce(
+    const setIsCartOpen = (setToOpen: boolean) => {
+        dispatch(setIsCartOpenAction(setToOpen));
+    };
+
+    const updateCartItemsReducer = (newCartItems: CartItemInterface[]) => {
+        const newCartCount = newCartItems.reduce(
             (total: number, cartItem: CartItemInterface) =>
                 total + cartItem.quantity,
             0
         );
-        setCartCount(newCartCount);
-    }, [cartItems]);
 
-    useEffect(() => {
-        const newCartTotal = cartItems.reduce(
+        const newCartTotal = newCartItems.reduce(
             (total: number, cartItem: CartItemInterface) =>
                 total + cartItem.price * cartItem.quantity,
             0
         );
-        setCartTotal(newCartTotal);
-    }, [cartItems]);
+
+        dispatch(
+            setCartItemsAction({
+                cartItems: newCartItems,
+                cartCount: newCartCount,
+                cartTotal: newCartTotal,
+            })
+        );
+    };
 
     const addItemToCart = (item: ProductInterface) => {
-        setCartItems((prev: CartItemInterface[]) => addCartItem(prev, item));
+        const newCartItems = addCartItem(cartItems, item);
+        updateCartItemsReducer(newCartItems);
     };
 
     const removeItemFromCart = (itemToRemove: CartItemInterface) => {
-        setCartItems(removeCartItemFromCart(cartItems, itemToRemove));
+        const newCartItems = removeCartItemFromCart(cartItems, itemToRemove);
+        updateCartItemsReducer(newCartItems);
     };
 
     const incrementQuantity = (itemToUpdate: CartItemInterface) => {
@@ -123,16 +198,17 @@ export const CartContextProvider: FC<CartContextProps> = ({
     };
 
     const decrementQuantity = (itemToUpdate: CartItemInterface) => {
-        setCartItems(decrementCartQuantity(cartItems, itemToUpdate));
+        const newCartItems = decrementCartQuantity(cartItems, itemToUpdate);
+        updateCartItemsReducer(newCartItems);
     };
 
     const value = {
         isCartOpen,
-        setIsCartOpen,
         cartItems,
-        addItemToCart,
         cartCount,
         cartTotal,
+        addItemToCart,
+        setIsCartOpen,
         removeItemFromCart,
         incrementQuantity,
         decrementQuantity,
