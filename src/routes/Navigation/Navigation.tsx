@@ -2,7 +2,7 @@ import React, { FC, useContext } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 import styles from './Navigation.module.scss';
 import { ReactComponent as FitLogo } from '../../assets/logo.svg';
-import { UserContext } from '../../contexts/user.context';
+import { UserContext } from '../../contexts/UserContext/UserContext';
 import { CartContext } from '../../contexts/CartContext/CartContext';
 import { signOutUser } from '../../utils/firebase/firebase.utils';
 import CartIcon from '../../components/CartIcon/CartIcon';
