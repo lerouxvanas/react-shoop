@@ -1,0 +1,6078 @@
+[
+    {
+        "code": "111101",
+        "title": "Local or Provincial Government Legislator"
+    },
+    {
+        "code": "111102",
+        "title": "Parliamentarian"
+    },
+    {
+        "code": "111201",
+        "title": "Defence Force Senior Officer"
+    },
+    {
+        "code": "111202",
+        "title": "General Manager Public Service"
+    },
+    {
+        "code": "111203",
+        "title": "Local Authority Manager"
+    },
+    {
+        "code": "111204",
+        "title": "Senior Government Official"
+    },
+    {
+        "code": "111205",
+        "title": "Senior Police Officer"
+    },
+    {
+        "code": "111206",
+        "title": "Ombudsperson"
+    },
+    {
+        "code": "111207",
+        "title": "Senior Government Manager"
+    },
+    {
+        "code": "111301",
+        "title": "Traditional Leader"
+    },
+    {
+        "code": "111401",
+        "title": "Elected Official"
+    },
+    {
+        "code": "111402",
+        "title": "Trade Union Representative"
+    },
+    {
+        "code": "111408",
+        "title": "Political Party Representative"
+    },
+    {
+        "code": "112101",
+        "title": "Director (Enterprise / Organisation)"
+    },
+    {
+        "code": "121101",
+        "title": "Finance Manager"
+    },
+    {
+        "code": "121102",
+        "title": "Payroll Manager"
+    },
+    {
+        "code": "121103",
+        "title": "Credit Manager"
+    },
+    {
+        "code": "121104",
+        "title": "Internal Audit Manager"
+    },
+    {
+        "code": "121201",
+        "title": "Human Resource Manager"
+    },
+    {
+        "code": "121202",
+        "title": "Business Training Manager"
+    },
+    {
+        "code": "121203",
+        "title": "Compensation and Benefits Manager"
+    },
+    {
+        "code": "121204",
+        "title": "Recruitment Manager"
+    },
+    {
+        "code": "121205",
+        "title": "Employee Wellness Manager"
+    },
+    {
+        "code": "121206",
+        "title": "Health and Safety Manager"
+    },
+    {
+        "code": "121207",
+        "title": "Personnel Manager"
+    },
+    {
+        "code": "121301",
+        "title": "Policy and Planning Manager"
+    },
+    {
+        "code": "121901",
+        "title": "Corporate General Manager"
+    },
+    {
+        "code": "121902",
+        "title": "Corporate Services Manager"
+    },
+    {
+        "code": "121903",
+        "title": "Physical Asset Manager"
+    },
+    {
+        "code": "121904",
+        "title": "Contract Manager"
+    },
+    {
+        "code": "121905",
+        "title": "Programme or Project Manager"
+    },
+    {
+        "code": "121906",
+        "title": "Franchise Manager"
+    },
+    {
+        "code": "121907",
+        "title": "Labour Recruitment Manager"
+    },
+    {
+        "code": "121908",
+        "title": "Quality Systems Manager"
+    },
+    {
+        "code": "121909",
+        "title": "Sustainability Manager"
+    },
+    {
+        "code": "121910",
+        "title": "Water Asset Manager"
+    },
+    {
+        "code": "122101",
+        "title": "Sales and Marketing Manager"
+    },
+    {
+        "code": "122102",
+        "title": "Sales Manager"
+    },
+    {
+        "code": "122103",
+        "title": "Director of Marketing"
+    },
+    {
+        "code": "122104",
+        "title": "Interactive and Direct Marketing Strategist"
+    },
+    {
+        "code": "122105",
+        "title": "Customer Service Manager"
+    },
+    {
+        "code": "122201",
+        "title": "Advertising and Public Relations Manager"
+    },
+    {
+        "code": "122301",
+        "title": "Research and Development Manager"
+    },
+    {
+        "code": "131101",
+        "title": "Agricultural Farm Manager"
+    },
+    {
+        "code": "131102",
+        "title": "Forestry Operations Manager "
+    },
+    {
+        "code": "131103",
+        "title": "Forestry Operations Supervisor"
+    },
+    {
+        "code": "131201",
+        "title": "Aquaculture Farm Manager"
+    },
+    {
+        "code": "132101",
+        "title": "Manufacturer"
+    },
+    {
+        "code": "132102",
+        "title": "Manufacturing Operations Manager"
+    },
+    {
+        "code": "132104",
+        "title": "Engineering Manager"
+    },
+    {
+        "code": "132105",
+        "title": "Power Generation Operations Manager"
+    },
+    {
+        "code": "132106",
+        "title": "Manufacturing Quality Manager"
+    },
+    {
+        "code": "132107",
+        "title": "Quality Manager"
+    },
+    {
+        "code": "132108",
+        "title": "Metrologist"
+    },
+    {
+        "code": "132109",
+        "title": "Quality Systems Auditor"
+    },
+    {
+        "code": "132110",
+        "title": "Quality Systems Auditor"
+    },
+    {
+        "code": "132111",
+        "title": "Quality Training Manager"
+    },
+    {
+        "code": "132201",
+        "title": "Mining Operations Manager"
+    },
+    {
+        "code": "132202",
+        "title": "Mineral Resources Manager"
+    },
+    {
+        "code": "132203",
+        "title": "Rock Engineering Manager"
+    },
+    {
+        "code": "132301",
+        "title": "Construction Project Manager"
+    },
+    {
+        "code": "132302",
+        "title": "Project Builder"
+    },
+    {
+        "code": "132401",
+        "title": "Supply and Distribution Manager"
+    },
+    {
+        "code": "132402",
+        "title": "Logistics Manager"
+    },
+    {
+        "code": "132403",
+        "title": "Road Transport Manager"
+    },
+    {
+        "code": "132404",
+        "title": "Warehouse Manager"
+    },
+    {
+        "code": "132405",
+        "title": "Fleet Manager"
+    },
+    {
+        "code": "132406",
+        "title": "Railway Station Manager"
+    },
+    {
+        "code": "132407",
+        "title": "Airport or Harbour Manager"
+    },
+    {
+        "code": "132408",
+        "title": "Grain Depot Manager"
+    },
+    {
+        "code": "132409",
+        "title": "Fuel Manager"
+    },
+    {
+        "code": "132410",
+        "title": "Maritime Search and Rescue Mission Coordinator"
+    },
+    {
+        "code": "133101",
+        "title": "Chief Information Officer"
+    },
+    {
+        "code": "133102",
+        "title": "ICT Project Manager"
+    },
+    {
+        "code": "133103",
+        "title": "Data Management Manager"
+    },
+    {
+        "code": "133104",
+        "title": "Application Development Manager"
+    },
+    {
+        "code": "133105",
+        "title": "Information Technology Manager"
+    },
+    {
+        "code": "133106",
+        "title": "Information Systems Director"
+    },
+    {
+        "code": "134101",
+        "title": "Child Care Centre Manager"
+    },
+    {
+        "code": "134201",
+        "title": "Medical Superintendent"
+    },
+    {
+        "code": "134202",
+        "title": "Nursing Clinical Director"
+    },
+    {
+        "code": "134203",
+        "title": "Primary Health Care Manager"
+    },
+    {
+        "code": "134204",
+        "title": "Secondary Health Services Manager"
+    },
+    {
+        "code": "134205",
+        "title": "Health Service Specialised Clinic Manager"
+    },
+    {
+        "code": "134206",
+        "title": "Sport Science Manager"
+    },
+    {
+        "code": "134207",
+        "title": "Community Health Manager"
+    },
+    {
+        "code": "134301",
+        "title": "Special Care Accommodation Manager"
+    },
+    {
+        "code": "134401",
+        "title": "Social Services Manager"
+    },
+    {
+        "code": "134402",
+        "title": "Community Development Manager"
+    },
+    {
+        "code": "134403",
+        "title": "Child and Youth Care Manager"
+    },
+    {
+        "code": "134501",
+        "title": "School Principal"
+    },
+    {
+        "code": "134502",
+        "title": "FET College Principal"
+    },
+    {
+        "code": "134503",
+        "title": "Faculty Head"
+    },
+    {
+        "code": "134504",
+        "title": "District Education Manager"
+    },
+    {
+        "code": "134505",
+        "title": "Educational Rector"
+    },
+    {
+        "code": "134506",
+        "title": "Educational Registrar"
+    },
+    {
+        "code": "134507",
+        "title": "Head of Department (Teacher)"
+    },
+    {
+        "code": "134601",
+        "title": "Bank Manager"
+    },
+    {
+        "code": "134602",
+        "title": "Credit Bureau Manager"
+    },
+    {
+        "code": "134603",
+        "title": "Financial Markets Business Manager"
+    },
+    {
+        "code": "134701",
+        "title": "Military Manager"
+    },
+    {
+        "code": "134702",
+        "title": "Military Commander"
+    },
+    {
+        "code": "134703",
+        "title": "Military Warrant Officer"
+    },
+    {
+        "code": "134901",
+        "title": "Environmental Manager"
+    },
+    {
+        "code": "134902",
+        "title": "Laboratory Manager"
+    },
+    {
+        "code": "134903",
+        "title": "Small Business Manager"
+    },
+    {
+        "code": "134904",
+        "title": "Office Manager"
+    },
+    {
+        "code": "134905",
+        "title": "Judicial Court Manager"
+    },
+    {
+        "code": "134906",
+        "title": "Practice Manager"
+    },
+    {
+        "code": "134907",
+        "title": "Archives Manager"
+    },
+    {
+        "code": "134908",
+        "title": "Library Manager"
+    },
+    {
+        "code": "134909",
+        "title": "Museum Manager"
+    },
+    {
+        "code": "134911",
+        "title": "Insurance Policy Administration Manager"
+    },
+    {
+        "code": "134912",
+        "title": "Commissioned Fire and Rescue Officer"
+    },
+    {
+        "code": "134913",
+        "title": "Commissioned Police Officer"
+    },
+    {
+        "code": "134914",
+        "title": "Correctional Services Manager"
+    },
+    {
+        "code": "134915",
+        "title": "Non Manufacturing Operations Manager"
+    },
+    {
+        "code": "134916",
+        "title": "Non Manufacturing Operations Foreman"
+    },
+    {
+        "code": "134917",
+        "title": "Publisher"
+    },
+    {
+        "code": "134918",
+        "title": "Water production and Supply Manager"
+    },
+    {
+        "code": "134919",
+        "title": "Traffic and Law Enforcement Manager"
+    },
+    {
+        "code": "134920",
+        "title": "Community Correctional Manager"
+    },
+    {
+        "code": "141101",
+        "title": "Hotel or Motel Manager"
+    },
+    {
+        "code": "141102",
+        "title": "Guest House Manager"
+    },
+    {
+        "code": "141103",
+        "title": "Reception Manager"
+    },
+    {
+        "code": "141201",
+        "title": "Café (Licensed) or Restaurant Manager"
+    },
+    {
+        "code": "141202",
+        "title": "Licensed Club Manager"
+    },
+    {
+        "code": "141203",
+        "title": "Catering Production Manager"
+    },
+    {
+        "code": "141204",
+        "title": "Reservations Manager"
+    },
+    {
+        "code": "142101",
+        "title": "Importer or Exporter"
+    },
+    {
+        "code": "142102",
+        "title": "Wholesaler"
+    },
+    {
+        "code": "142103",
+        "title": "Retail General Manager"
+    },
+    {
+        "code": "142104",
+        "title": "Post Office Manager"
+    },
+    {
+        "code": "143101",
+        "title": "Betting Agency Manager"
+    },
+    {
+        "code": "143102",
+        "title": "Gaming Manager"
+    },
+    {
+        "code": "143103",
+        "title": "Cinema or Theatre Manager"
+    },
+    {
+        "code": "143104",
+        "title": "Arts / Culture Manager"
+    },
+    {
+        "code": "143105",
+        "title": "Sports Administrator"
+    },
+    {
+        "code": "143106",
+        "title": "Amusement Centre Manager"
+    },
+    {
+        "code": "143107",
+        "title": "Fitness Centre Manager"
+    },
+    {
+        "code": "143108",
+        "title": "Facility Centre Manager"
+    },
+    {
+        "code": "143109",
+        "title": "Club Membership Manager"
+    },
+    {
+        "code": "143901",
+        "title": "Facilities Manager"
+    },
+    {
+        "code": "143902",
+        "title": "Cleaning Services Manager"
+    },
+    {
+        "code": "143903",
+        "title": "Boarding Kennel or Cattery Manager"
+    },
+    {
+        "code": "143904",
+        "title": "Security Services Manager"
+    },
+    {
+        "code": "143905",
+        "title": "Call or Contact Centre Manager"
+    },
+    {
+        "code": "143906",
+        "title": "Caravan Park and Camping Ground Manager"
+    },
+    {
+        "code": "143907",
+        "title": "Dockmaster"
+    },
+    {
+        "code": "143908",
+        "title": "Travel Accommodation Inspector"
+    },
+    {
+        "code": "143909",
+        "title": "Travel Agency Manager"
+    },
+    {
+        "code": "211101",
+        "title": "Physicist"
+    },
+    {
+        "code": "211201",
+        "title": "Meteorologist"
+    },
+    {
+        "code": "211205",
+        "title": "Climate Change Scientist"
+    },
+    {
+        "code": "211206",
+        "title": "Climate Change Scientist"
+    },
+    {
+        "code": "211301",
+        "title": "Chemist"
+    },
+    {
+        "code": "211302",
+        "title": "Manufacturing Research Chemist"
+    },
+    {
+        "code": "211401",
+        "title": "Geologist"
+    },
+    {
+        "code": "211402",
+        "title": "Geophysicist"
+    },
+    {
+        "code": "211403",
+        "title": "Materials Scientist"
+    },
+    {
+        "code": "211404",
+        "title": "Gemologist"
+    },
+    {
+        "code": "211405",
+        "title": "Mineralogist"
+    },
+    {
+        "code": "211406",
+        "title": "Hydrologist"
+    },
+    {
+        "code": "211407",
+        "title": "Oceanographer"
+    },
+    {
+        "code": "212101",
+        "title": "Actuar"
+    },
+    {
+        "code": "212102",
+        "title": "Mathematician"
+    },
+    {
+        "code": "212103",
+        "title": "Statistician"
+    },
+    {
+        "code": "213101",
+        "title": "Animal Behaviourist"
+    },
+    {
+        "code": "213102",
+        "title": "General Biologist"
+    },
+    {
+        "code": "213103",
+        "title": "Anatomist or Physiologist"
+    },
+    {
+        "code": "213104",
+        "title": "Biochemist"
+    },
+    {
+        "code": "213105",
+        "title": "Biotechnologist"
+    },
+    {
+        "code": "213106",
+        "title": "Botanist"
+    },
+    {
+        "code": "213107",
+        "title": "Marine Biologist"
+    },
+    {
+        "code": "213108",
+        "title": "Microbiologist"
+    },
+    {
+        "code": "213109",
+        "title": "Zoologist"
+    },
+    {
+        "code": "213110",
+        "title": "Medical Scientist"
+    },
+    {
+        "code": "213111",
+        "title": "Pharmaceutical Physician"
+    },
+    {
+        "code": "213201",
+        "title": "Agriculture Consultant"
+    },
+    {
+        "code": "213202",
+        "title": "Agricultural Scientist"
+    },
+    {
+        "code": "213203",
+        "title": "Forest Scientist"
+    },
+    {
+        "code": "213204",
+        "title": "Wine Maker"
+    },
+    {
+        "code": "213205",
+        "title": "Food and Beverage Scientist"
+    },
+    {
+        "code": "213301",
+        "title": "Conservation Scientist"
+    },
+    {
+        "code": "213302",
+        "title": "Environmental Scientist"
+    },
+    {
+        "code": "213304",
+        "title": "Earth and Soil Scientist"
+    },
+    {
+        "code": "213305",
+        "title": "Air Pollution Analyst"
+    },
+    {
+        "code": "213306",
+        "title": "Water Quality Analyst"
+    },
+    {
+        "code": "213307",
+        "title": "Park Ranger"
+    },
+    {
+        "code": "213308",
+        "title": "Brownfield Redevelopment Specialist"
+    },
+    {
+        "code": "213309",
+        "title": "Toxicologist"
+    },
+    {
+        "code": "213310",
+        "title": "Biodiversity Planner "
+    },
+    {
+        "code": "214101",
+        "title": "Industrial Engineer"
+    },
+    {
+        "code": "214102",
+        "title": "Industrial Engineering Technologist"
+    },
+    {
+        "code": "214103",
+        "title": "Production Engineer"
+    },
+    {
+        "code": "214104",
+        "title": "Production Engineering Technologist"
+    },
+    {
+        "code": "214105",
+        "title": "Energy Efficiency Manager"
+    },
+    {
+        "code": "214106",
+        "title": "Metrologist"
+    },
+    {
+        "code": "214201",
+        "title": "Civil Engineer"
+    },
+    {
+        "code": "214202",
+        "title": "Civil Engineering Technologist"
+    },
+    {
+        "code": "214301",
+        "title": "Environmental Engineer"
+    },
+    {
+        "code": "214302",
+        "title": "Environmental Impact and Restoration Analyst"
+    },
+    {
+        "code": "214401",
+        "title": "Mechanical Engineer"
+    },
+    {
+        "code": "214402",
+        "title": "Mechanical Engineering Technologist"
+    },
+    {
+        "code": "214403",
+        "title": "Aeronautical Engineer"
+    },
+    {
+        "code": "214404",
+        "title": "Aeronautical Engineering Technologist"
+    },
+    {
+        "code": "214405",
+        "title": "Naval Architect"
+    },
+    {
+        "code": "214406",
+        "title": "Marine Engineering Technologist"
+    },
+    {
+        "code": "214407",
+        "title": "Defence Industry Armament Engineer"
+    },
+    {
+        "code": "214408",
+        "title": "Defence Industry Armament Engineering Technologist"
+    },
+    {
+        "code": "214501",
+        "title": "Chemical Engineer"
+    },
+    {
+        "code": "214502",
+        "title": "Chemical Engineering Technologist"
+    },
+    {
+        "code": "214503",
+        "title": "Explosives and Dangerous Goods Inspector"
+    },
+    {
+        "code": "214601",
+        "title": "Mining Engineer "
+    },
+    {
+        "code": "214602",
+        "title": "Mining Engineering Technologist"
+    },
+    {
+        "code": "214603",
+        "title": "Metallurgical Engineer"
+    },
+    {
+        "code": "214604",
+        "title": "Metallurgical Engineering Technologist"
+    },
+    {
+        "code": "214605",
+        "title": "Metallurgist"
+    },
+    {
+        "code": "214607",
+        "title": "Petroleum Engineer"
+    },
+    {
+        "code": "214901",
+        "title": "Biomedical Engineer"
+    },
+    {
+        "code": "214902",
+        "title": "Explosive Ordnance Engineer"
+    },
+    {
+        "code": "214903",
+        "title": "Marine Salvage Engineer"
+    },
+    {
+        "code": "214904",
+        "title": "Quantity Surveyor"
+    },
+    {
+        "code": "214905",
+        "title": "Agricultural Engineer"
+    },
+    {
+        "code": "214906",
+        "title": "Agricultural Engineering Technologist"
+    },
+    {
+        "code": "214907",
+        "title": "Materials Engineer"
+    },
+    {
+        "code": "214908",
+        "title": "Materials Engineering Technologist"
+    },
+    {
+        "code": "214909",
+        "title": "Microsystems Engineers"
+    },
+    {
+        "code": "215101",
+        "title": "Electrical Engineer"
+    },
+    {
+        "code": "215102",
+        "title": "Electrical Engineering Technologist"
+    },
+    {
+        "code": "215103",
+        "title": "Energy Engineer"
+    },
+    {
+        "code": "215104",
+        "title": "Energy Engineering Technologist"
+    },
+    {
+        "code": "215201",
+        "title": "Electronics Engineer"
+    },
+    {
+        "code": "215202",
+        "title": "Electronics Engineering Technologist"
+    },
+    {
+        "code": "215301",
+        "title": "Telecommunications Engineer"
+    },
+    {
+        "code": "215302",
+        "title": "Telecommunications Engineering Technologist"
+    },
+    {
+        "code": "215303",
+        "title": "Telecommunications Network Engineer"
+    },
+    {
+        "code": "215304",
+        "title": "Telecommunications Field Engineer"
+    },
+    {
+        "code": "216101",
+        "title": "Architect"
+    },
+    {
+        "code": "216201",
+        "title": "Landscape Architect"
+    },
+    {
+        "code": "216301",
+        "title": "Fashion Designer"
+    },
+    {
+        "code": "216302",
+        "title": "Industrial Designer"
+    },
+    {
+        "code": "216303",
+        "title": "Jewellery Designer"
+    },
+    {
+        "code": "216304",
+        "title": "Footwear Designer"
+    },
+    {
+        "code": "216401",
+        "title": "Urban and Regional Planner"
+    },
+    {
+        "code": "216402",
+        "title": "Transport Analyst"
+    },
+    {
+        "code": "216403",
+        "title": "Marine Spatial Planner"
+    },
+    {
+        "code": "216501",
+        "title": "Cartographer"
+    },
+    {
+        "code": "216502",
+        "title": "Surveyor"
+    },
+    {
+        "code": "216601",
+        "title": "Digital Artist"
+    },
+    {
+        "code": "216602",
+        "title": "Illustrator"
+    },
+    {
+        "code": "216603",
+        "title": "Multimedia Designer"
+    },
+    {
+        "code": "216604",
+        "title": "Web Designer"
+    },
+    {
+        "code": "221101",
+        "title": "General Medical Practitioner"
+    },
+    {
+        "code": "221102",
+        "title": "Resident Medical Officer"
+    },
+    {
+        "code": "221103",
+        "title": "Public Health Physician"
+    },
+    {
+        "code": "221201",
+        "title": "Anaesthetist"
+    },
+    {
+        "code": "221202",
+        "title": "Cardiologist"
+    },
+    {
+        "code": "221203",
+        "title": "Emergency Medicine Specialist"
+    },
+    {
+        "code": "221204",
+        "title": "Obstetrician and Gynaecologist"
+    },
+    {
+        "code": "221205",
+        "title": "Ophthalmologist"
+    },
+    {
+        "code": "221206",
+        "title": "Paediatrician"
+    },
+    {
+        "code": "221207",
+        "title": "Pathologist"
+    },
+    {
+        "code": "221208",
+        "title": "Psychiatrist"
+    },
+    {
+        "code": "221209",
+        "title": "Radiologist"
+    },
+    {
+        "code": "221210",
+        "title": "General Medicine Specialist Physician"
+    },
+    {
+        "code": "221211",
+        "title": "Surgeon"
+    },
+    {
+        "code": "221212",
+        "title": "Forensic Pathologist"
+    },
+    {
+        "code": "221213",
+        "title": "Radiation Oncologist"
+    },
+    {
+        "code": "221214",
+        "title": "Nuclear Medicine Specialist"
+    },
+    {
+        "code": "221215",
+        "title": "Family Physician"
+    },
+    {
+        "code": "221216",
+        "title": "Neurologist"
+    },
+    {
+        "code": "221217",
+        "title": "Clinical Pharmacologist"
+    },
+    {
+        "code": "221218",
+        "title": "Medical Geneticist"
+    },
+    {
+        "code": "221219",
+        "title": "Plastic and Reconstructive Surgeon"
+    },
+    {
+        "code": "221220",
+        "title": "Urologist"
+    },
+    {
+        "code": "221221",
+        "title": "Public Health Medicine Specialist"
+    },
+    {
+        "code": "221222",
+        "title": "Public Health Occupational Medicine Specialist "
+    },
+    {
+        "code": "221223",
+        "title": "Paediatric Surgeon"
+    },
+    {
+        "code": "221224",
+        "title": "Orthopaedic Surgeon"
+    },
+    {
+        "code": "221225",
+        "title": "Neurosurgeon"
+    },
+    {
+        "code": "221226",
+        "title": "Otorhinolaryngologist"
+    },
+    {
+        "code": "221227",
+        "title": "Dermatologist"
+    },
+    {
+        "code": "222101",
+        "title": "Clinical Nurse Practitioner"
+    },
+    {
+        "code": "222102",
+        "title": "Aged Care Registered Nurse"
+    },
+    {
+        "code": "222103",
+        "title": "Registered Nurse (Child and Family Health)"
+    },
+    {
+        "code": "222104",
+        "title": "Registered Nurse (Community Health)"
+    },
+    {
+        "code": "222105",
+        "title": "Registered Nurse (Critical Care and Emergency)"
+    },
+    {
+        "code": "222106",
+        "title": "Registered Nurse (Developmental Disability)"
+    },
+    {
+        "code": "222107",
+        "title": "Registered Nurse (Disability and Rehabilitation)"
+    },
+    {
+        "code": "222108",
+        "title": "Registered Nurse (Medical)"
+    },
+    {
+        "code": "222109",
+        "title": "Registered Nurse (Medical Practice)"
+    },
+    {
+        "code": "222110",
+        "title": "Registered Nurse (Mental Health)"
+    },
+    {
+        "code": "222111",
+        "title": "Registered Nurse (Operating theatre)"
+    },
+    {
+        "code": "222112",
+        "title": "Registered Nurse (Surgical)"
+    },
+    {
+        "code": "222113",
+        "title": "Paediatrics Nurse"
+    },
+    {
+        "code": "222114",
+        "title": "Nurse Educator"
+    },
+    {
+        "code": "222115",
+        "title": "Nurse Researcher"
+    },
+    {
+        "code": "222116",
+        "title": "Nurse Manager"
+    },
+    {
+        "code": "222117",
+        "title": "Midwife"
+    },
+    {
+        "code": "222201",
+        "title": "Midwife"
+    },
+    {
+        "code": "223101",
+        "title": "Acupuncturist"
+    },
+    {
+        "code": "223102",
+        "title": "Ayurvedic Practitioner"
+    },
+    {
+        "code": "223103",
+        "title": "Homoeopath"
+    },
+    {
+        "code": "223104",
+        "title": "Naturopath"
+    },
+    {
+        "code": "223105",
+        "title": "Traditional African Medicine Practitioner"
+    },
+    {
+        "code": "223106",
+        "title": "Traditional Chinese Medicine Practitioner"
+    },
+    {
+        "code": "223107",
+        "title": "Phytotherapist"
+    },
+    {
+        "code": "224101",
+        "title": "Paramedical Practitioner"
+    },
+    {
+        "code": "224102",
+        "title": "Sports Scientist"
+    },
+    {
+        "code": "225101",
+        "title": "Veterinarian"
+    },
+    {
+        "code": "225102",
+        "title": "Veterinary Public Health Professional / Practitioner"
+    },
+    {
+        "code": "225103",
+        "title": "Livestock Inspector"
+    },
+    {
+        "code": "226101",
+        "title": "Dental Specialist"
+    },
+    {
+        "code": "226102",
+        "title": "Dentist"
+    },
+    {
+        "code": "226201",
+        "title": "Hospital Pharmacist"
+    },
+    {
+        "code": "226202",
+        "title": "Industrial Pharmacist"
+    },
+    {
+        "code": "226203",
+        "title": "Retail Pharmacist"
+    },
+    {
+        "code": "226204",
+        "title": "Authorised Pharmacist Prescriber"
+    },
+    {
+        "code": "226301",
+        "title": "Environmental Health Officer"
+    },
+    {
+        "code": "226302",
+        "title": "Safety, Health, Environment and Quality (SHE&Q) Practitioner"
+    },
+    {
+        "code": "226303",
+        "title": "Ergonomist"
+    },
+    {
+        "code": "226304",
+        "title": "Food Inspector"
+    },
+    {
+        "code": "226401",
+        "title": "Physiotherapist"
+    },
+    {
+        "code": "226501",
+        "title": "Dietitian"
+    },
+    {
+        "code": "226502",
+        "title": "Nutritionist"
+    },
+    {
+        "code": "226601",
+        "title": "Audiologist"
+    },
+    {
+        "code": "226602",
+        "title": "Speech Pathologist"
+    },
+    {
+        "code": "226603",
+        "title": "Speech Therapist and Audiologist"
+    },
+    {
+        "code": "226604",
+        "title": "Hearing Aid Acousticians"
+    },
+    {
+        "code": "226701",
+        "title": "Optometrist"
+    },
+    {
+        "code": "226702",
+        "title": "Orthoptist"
+    },
+    {
+        "code": "226901",
+        "title": "Arts Therapist"
+    },
+    {
+        "code": "226902",
+        "title": "Occupational Therapist"
+    },
+    {
+        "code": "226903",
+        "title": "Podiatrist"
+    },
+    {
+        "code": "226904",
+        "title": "Diversional Therapist"
+    },
+    {
+        "code": "226905",
+        "title": "Biokineticist"
+    },
+    {
+        "code": "226906",
+        "title": "Rheumatologist"
+    },
+    {
+        "code": "226907",
+        "title": "Dermatologist"
+    },
+    {
+        "code": "231101",
+        "title": "University Lecturer"
+    },
+    {
+        "code": "231102",
+        "title": "University Tutor"
+    },
+    {
+        "code": "232130",
+        "title": "TVET Educator"
+    },
+    {
+        "code": "232131",
+        "title": "Adult Education Teacher"
+    },
+    {
+        "code": "232132",
+        "title": "Community College Educator"
+    },
+    {
+        "code": "233107",
+        "title": "Senior Secondary School Teacher (Grades 10-12)"
+    },
+    {
+        "code": "233108",
+        "title": "Junior Secondary School Teacher (Grades 8 - 9)"
+    },
+    {
+        "code": "234101",
+        "title": "Foundational Phase School Teacher"
+    },
+    {
+        "code": "234102",
+        "title": "Senior Primary School Teacher (Grades 4-7)"
+    },
+    {
+        "code": "234201",
+        "title": "Early Childhood Development Practitioner"
+    },
+    {
+        "code": "235101",
+        "title": "Education or Training Advisor"
+    },
+    {
+        "code": "235102",
+        "title": "Education or Training Reviewer"
+    },
+    {
+        "code": "235201",
+        "title": "Special Needs Teacher"
+    },
+    {
+        "code": "235301",
+        "title": "Teacher of English To Speakers of Other Languages"
+    },
+    {
+        "code": "235401",
+        "title": "Private Tuition Music Teacher"
+    },
+    {
+        "code": "235501",
+        "title": "Private Tuition Art Teacher"
+    },
+    {
+        "code": "235502",
+        "title": "Private Tuition Dance Teacher"
+    },
+    {
+        "code": "235503",
+        "title": "Private Tuition Drama Teacher"
+    },
+    {
+        "code": "235601",
+        "title": "ICT Trainer"
+    },
+    {
+        "code": "235901",
+        "title": "Private Tuition Dressmaking Teacher"
+    },
+    {
+        "code": "235902",
+        "title": "Private Tuition Handicrafts Teacher"
+    },
+    {
+        "code": "235903",
+        "title": "School Laboratory Technician"
+    },
+    {
+        "code": "235904",
+        "title": "Examination Supervisor"
+    },
+    {
+        "code": "241101",
+        "title": "General Accountant"
+    },
+    {
+        "code": "241102",
+        "title": "Management Accountant"
+    },
+    {
+        "code": "241103",
+        "title": "Tax Professional"
+    },
+    {
+        "code": "241104",
+        "title": "External Auditor"
+    },
+    {
+        "code": "241106",
+        "title": "Accountant in Practice"
+    },
+    {
+        "code": "241107",
+        "title": "Financial Accountant"
+    },
+    {
+        "code": "241108",
+        "title": "Forensic Accountant"
+    },
+    {
+        "code": "241201",
+        "title": "Investment Analyst"
+    },
+    {
+        "code": "241202",
+        "title": "Investment Manager"
+    },
+    {
+        "code": "241203",
+        "title": "Investment Advisor"
+    },
+    {
+        "code": "241204",
+        "title": "Financial Markets Practitioner"
+    },
+    {
+        "code": "241205",
+        "title": "Professional Principal Executive Officer"
+    },
+    {
+        "code": "241301",
+        "title": "Financial Investment Advisor"
+    },
+    {
+        "code": "242101",
+        "title": "Management Consultant"
+    },
+    {
+        "code": "242102",
+        "title": "Organisation and Methods Analyst"
+    },
+    {
+        "code": "242103",
+        "title": "Business Development Officer"
+    },
+    {
+        "code": "242201",
+        "title": "Intelligence Officer"
+    },
+    {
+        "code": "242202",
+        "title": "Policy Analyst"
+    },
+    {
+        "code": "242203",
+        "title": "Company Secretar"
+    },
+    {
+        "code": "242204",
+        "title": "Corporate Treasurer"
+    },
+    {
+        "code": "242207",
+        "title": "Compliance Officer"
+    },
+    {
+        "code": "242208",
+        "title": "Organisational Risk Manager"
+    },
+    {
+        "code": "242209",
+        "title": "Accounting Officer"
+    },
+    {
+        "code": "242210",
+        "title": "Business Administrator"
+    },
+    {
+        "code": "242211",
+        "title": "Internal Auditor"
+    },
+    {
+        "code": "242212",
+        "title": "Diplomat "
+    },
+    {
+        "code": "242213",
+        "title": "Regulatory Affairs Officer"
+    },
+    {
+        "code": "242214",
+        "title": "Intellectual Property Special Advisor"
+    },
+    {
+        "code": "242215",
+        "title": "Fraud ExaminerY"
+    },
+    {
+        "code": "242301",
+        "title": "Career Development Practitioner"
+    },
+    {
+        "code": "242302",
+        "title": "Skills Development Practitioner"
+    },
+    {
+        "code": "242303",
+        "title": "Human Resource Advisor"
+    },
+    {
+        "code": "242304",
+        "title": "Industrial Relations Advisor"
+    },
+    {
+        "code": "242305",
+        "title": "Occupational Analyst"
+    },
+    {
+        "code": "242306",
+        "title": "Labour Market Analyst"
+    },
+    {
+        "code": "242307",
+        "title": "Recreation Officer"
+    },
+    {
+        "code": "242401",
+        "title": "Training and Development Professional"
+    },
+    {
+        "code": "242402",
+        "title": "Occupational Instructor "
+    },
+    {
+        "code": "242403",
+        "title": "Assessment Practitioner"
+    },
+    {
+        "code": "242404",
+        "title": "Student Support Service Officer"
+    },
+    {
+        "code": "243101",
+        "title": "Advertising Specialist"
+    },
+    {
+        "code": "243102",
+        "title": "Market Research Analyst"
+    },
+    {
+        "code": "243103",
+        "title": "Marketing Practitioner"
+    },
+    {
+        "code": "243104",
+        "title": "Market Campaign Analyst"
+    },
+    {
+        "code": "243105",
+        "title": "Business Development Officer"
+    },
+    {
+        "code": "243201",
+        "title": "Communication Coordinator"
+    },
+    {
+        "code": "243202",
+        "title": "Communication Strategist"
+    },
+    {
+        "code": "243203",
+        "title": "Corporate Communication Manager"
+    },
+    {
+        "code": "243204",
+        "title": "Event Producer"
+    },
+    {
+        "code": "243301",
+        "title": "Industrial Products Sales Representative "
+    },
+    {
+        "code": "243302",
+        "title": "Medical and Pharmaceutical Products Sales Representative "
+    },
+    {
+        "code": "243303",
+        "title": "Educational Products and Services Sales Representative "
+    },
+    {
+        "code": "243304",
+        "title": "Printing and Publishing Equipment Sales Representative"
+    },
+    {
+        "code": "243401",
+        "title": "ICT Account Manager"
+    },
+    {
+        "code": "243402",
+        "title": "ICT Business Development Manager"
+    },
+    {
+        "code": "243403",
+        "title": "ICT Sales Representative"
+    },
+    {
+        "code": "251101",
+        "title": "ICT Systems Analyst"
+    },
+    {
+        "code": "251201",
+        "title": "Software Developer"
+    },
+    {
+        "code": "251202",
+        "title": "Programmer Analyst"
+    },
+    {
+        "code": "251203",
+        "title": "Developer Programmer"
+    },
+    {
+        "code": "251301",
+        "title": "Multimedia Specialist"
+    },
+    {
+        "code": "251302",
+        "title": "Web Developer"
+    },
+    {
+        "code": "251401",
+        "title": "Applications Programmer"
+    },
+    {
+        "code": "251901",
+        "title": "Computers Quality Assurance Analyst"
+    },
+    {
+        "code": "252101",
+        "title": "Database Designer and Administrator"
+    },
+    {
+        "code": "252201",
+        "title": "Systems Administrator"
+    },
+    {
+        "code": "252301",
+        "title": "Computer Network and Systems Engineer"
+    },
+    {
+        "code": "252302",
+        "title": "Network Analyst"
+    },
+    {
+        "code": "252303",
+        "title": "`Transmission Engineer"
+    },
+    {
+        "code": "252901",
+        "title": "ICT Security Specialist"
+    },
+    {
+        "code": "252902",
+        "title": "Technical ICT Support Services Manager"
+    },
+    {
+        "code": "261101",
+        "title": "Attorne"
+    },
+    {
+        "code": "261102",
+        "title": "Administrative Lawyer"
+    },
+    {
+        "code": "261103",
+        "title": "Patent Attorne"
+    },
+    {
+        "code": "261104",
+        "title": "Trade Mark Attorne"
+    },
+    {
+        "code": "261105",
+        "title": "Tribunal Member"
+    },
+    {
+        "code": "261106",
+        "title": "Advocate"
+    },
+    {
+        "code": "261107",
+        "title": "Legal Manager"
+    },
+    {
+        "code": "261201",
+        "title": "Judge"
+    },
+    {
+        "code": "261202",
+        "title": "Magistrate"
+    },
+    {
+        "code": "261901",
+        "title": "Adjudicator"
+    },
+    {
+        "code": "261902",
+        "title": "Legislation Facilitator"
+    },
+    {
+        "code": "261903",
+        "title": "Master of The Court"
+    },
+    {
+        "code": "261904",
+        "title": "Family Court Registrar"
+    },
+    {
+        "code": "261905",
+        "title": "Notar"
+    },
+    {
+        "code": "262101",
+        "title": "Archivist"
+    },
+    {
+        "code": "262102",
+        "title": "Gallery or Museum Curator"
+    },
+    {
+        "code": "262103",
+        "title": "Conservator"
+    },
+    {
+        "code": "262201",
+        "title": "Librarian"
+    },
+    {
+        "code": "262202",
+        "title": "Information Services Manager"
+    },
+    {
+        "code": "263101",
+        "title": "Economist"
+    },
+    {
+        "code": "263102",
+        "title": "Economic Reasearch Manager"
+    },
+    {
+        "code": "263104",
+        "title": "Economic Research Manager"
+    },
+    {
+        "code": "263201",
+        "title": "Anthropologist"
+    },
+    {
+        "code": "263202",
+        "title": "Archaeologist"
+    },
+    {
+        "code": "263203",
+        "title": "Geographer"
+    },
+    {
+        "code": "263204",
+        "title": "Sociologist"
+    },
+    {
+        "code": "263205",
+        "title": "Criminologist"
+    },
+    {
+        "code": "263206",
+        "title": "Heritage Consultant"
+    },
+    {
+        "code": "263301",
+        "title": "Genealogist"
+    },
+    {
+        "code": "263302",
+        "title": "Historian"
+    },
+    {
+        "code": "263303",
+        "title": "Prehistorian"
+    },
+    {
+        "code": "263304",
+        "title": "Political Scientist"
+    },
+    {
+        "code": "263401",
+        "title": "Clinical Psychologist"
+    },
+    {
+        "code": "263402",
+        "title": "Educational Psychologist"
+    },
+    {
+        "code": "263403",
+        "title": "Organisational Psychologist"
+    },
+    {
+        "code": "263404",
+        "title": "Psychotherapist"
+    },
+    {
+        "code": "263405",
+        "title": "Research Psychologist"
+    },
+    {
+        "code": "263406",
+        "title": "Sport Psychologist"
+    },
+    {
+        "code": "263407",
+        "title": "Counselling Psychologist"
+    },
+    {
+        "code": "263408",
+        "title": "Community Psychologist"
+    },
+    {
+        "code": "263409",
+        "title": "Psychometrician"
+    },
+    {
+        "code": "263501",
+        "title": "Social Counselling Worker"
+    },
+    {
+        "code": "263502",
+        "title": "Addictions Counsellor"
+    },
+    {
+        "code": "263503",
+        "title": "Marriage and Family Counsellor"
+    },
+    {
+        "code": "263504",
+        "title": "Rehabilitation Counsellor"
+    },
+    {
+        "code": "263505",
+        "title": "Student Counsellor"
+    },
+    {
+        "code": "263506",
+        "title": "Probation Social Worker"
+    },
+    {
+        "code": "263507",
+        "title": "Adoption Social Worker"
+    },
+    {
+        "code": "263508",
+        "title": "Child and Youth Care Worker"
+    },
+    {
+        "code": "263509",
+        "title": "Parole Board Member"
+    },
+    {
+        "code": "263510",
+        "title": "Employee Wellness Practitioner"
+    },
+    {
+        "code": "263511",
+        "title": "Career Councillor"
+    },
+    {
+        "code": "263512",
+        "title": "Community Development Practitioner"
+    },
+    {
+        "code": "263601",
+        "title": "Minister of Religion"
+    },
+    {
+        "code": "264101",
+        "title": "Author"
+    },
+    {
+        "code": "264102",
+        "title": "Book or Script Editor"
+    },
+    {
+        "code": "264103",
+        "title": "Technical Writer"
+    },
+    {
+        "code": "264201",
+        "title": "Copywriter"
+    },
+    {
+        "code": "264202",
+        "title": " Editor"
+    },
+    {
+        "code": "264203",
+        "title": "Journalist"
+    },
+    {
+        "code": "264204",
+        "title": "Radio Journalist"
+    },
+    {
+        "code": "264205",
+        "title": "Content Presenter"
+    },
+    {
+        "code": "264206",
+        "title": "Critic"
+    },
+    {
+        "code": "264301",
+        "title": "Interpreter"
+    },
+    {
+        "code": "264302",
+        "title": "Translator"
+    },
+    {
+        "code": "264303",
+        "title": "Linguist"
+    },
+    {
+        "code": "265101",
+        "title": "Painter (Visual Arts)"
+    },
+    {
+        "code": "265102",
+        "title": "Potter or Ceramic"
+    },
+    {
+        "code": "265103",
+        "title": "Sculptor"
+    },
+    {
+        "code": "265104",
+        "title": "Ephemeral Artist"
+    },
+    {
+        "code": "265201",
+        "title": "Composer"
+    },
+    {
+        "code": "265202",
+        "title": "Music Director"
+    },
+    {
+        "code": "265203",
+        "title": "Musician (Instrumental)"
+    },
+    {
+        "code": "265204",
+        "title": "Singer"
+    },
+    {
+        "code": "265205",
+        "title": "Music Researcher"
+    },
+    {
+        "code": "265206",
+        "title": "Music Copyist"
+    },
+    {
+        "code": "265301",
+        "title": "Dancer or Choreographer"
+    },
+    {
+        "code": "265401",
+        "title": "Director (Film, Television, Radio or Stage)"
+    },
+    {
+        "code": "265402",
+        "title": "Director of Photograph"
+    },
+    {
+        "code": "265403",
+        "title": "Film and Video Editor"
+    },
+    {
+        "code": "265404",
+        "title": "Program Director (Television or Radio)"
+    },
+    {
+        "code": "265405",
+        "title": "Technical Director"
+    },
+    {
+        "code": "265406",
+        "title": "Video Producer"
+    },
+    {
+        "code": "265407",
+        "title": "Police Video Unit Manager and Producer"
+    },
+    {
+        "code": "265408",
+        "title": "Casting Director"
+    },
+    {
+        "code": "265409",
+        "title": "Film and Television Production Manager"
+    },
+    {
+        "code": "265410",
+        "title": "Radio or Television Programme Organiser"
+    },
+    {
+        "code": "265411",
+        "title": "Location Manager (Film or Television)"
+    },
+    {
+        "code": "265412",
+        "title": "Media Producer"
+    },
+    {
+        "code": "265501",
+        "title": "Actor"
+    },
+    {
+        "code": "265601",
+        "title": "Radio Presenter"
+    },
+    {
+        "code": "265602",
+        "title": "Television Presenter"
+    },
+    {
+        "code": "265901",
+        "title": "Entertainer or Variety Artist"
+    },
+    {
+        "code": "265902",
+        "title": "Hypnotist"
+    },
+    {
+        "code": "265903",
+        "title": "Public Speaker"
+    },
+    {
+        "code": "265904",
+        "title": "Community Arts Worker"
+    },
+    {
+        "code": "311101",
+        "title": "Chemistry Technician"
+    },
+    {
+        "code": "311102",
+        "title": "Physical Science Technician"
+    },
+    {
+        "code": "311103",
+        "title": "Fragrance Evaluators/ flavourists"
+    },
+    {
+        "code": "311104",
+        "title": "Radiation Control/ Nuclear Monitoring Technician"
+    },
+    {
+        "code": "311201",
+        "title": "Civil Engineering Technician"
+    },
+    {
+        "code": "311202",
+        "title": "Surveying or Cartographic Technician"
+    },
+    {
+        "code": "311203",
+        "title": "Town Planning Technician"
+    },
+    {
+        "code": "311217",
+        "title": "Water Control Officer"
+    },
+    {
+        "code": "311301",
+        "title": "Electrical Engineering Technician"
+    },
+    {
+        "code": "311302",
+        "title": "Electric Substation Operations Manager"
+    },
+    {
+        "code": "311303",
+        "title": "Energy Efficiency Technician"
+    },
+    {
+        "code": "311401",
+        "title": "Electronic Engineering Technician"
+    },
+    {
+        "code": "311501",
+        "title": "Mechanical Engineering Technician"
+    },
+    {
+        "code": "311502",
+        "title": "Pressure Equipment  Inspector"
+    },
+    {
+        "code": "311503",
+        "title": "Aeronautical Engineering Technician"
+    },
+    {
+        "code": "311601",
+        "title": "Chemical Engineering Technician"
+    },
+    {
+        "code": "311701",
+        "title": "Mining Technician"
+    },
+    {
+        "code": "311702",
+        "title": "Metallurgical or Materials Technician"
+    },
+    {
+        "code": "311703",
+        "title": "Non-Destructive Testing Technician  (NDTT)"
+    },
+    {
+        "code": "311704",
+        "title": "Geophysical Technician"
+    },
+    {
+        "code": "311801",
+        "title": "Draughtsperson"
+    },
+    {
+        "code": "311901",
+        "title": "Forensic Technician (Biology, Toxicology)"
+    },
+    {
+        "code": "311902",
+        "title": "Fire Investigator"
+    },
+    {
+        "code": "311903",
+        "title": "Food and Beverage Technician"
+    },
+    {
+        "code": "311904",
+        "title": "Manufacturing Technician"
+    },
+    {
+        "code": "311905",
+        "title": "Industrial Engineering Technician"
+    },
+    {
+        "code": "311906",
+        "title": "Environmental Engineering Technician"
+    },
+    {
+        "code": "311910",
+        "title": "Food Laboratory Analyst"
+    },
+    {
+        "code": "312101",
+        "title": "Mining Production Supervisor"
+    },
+    {
+        "code": "312102",
+        "title": "Miner"
+    },
+    {
+        "code": "312103",
+        "title": "Engineering Supervisor"
+    },
+    {
+        "code": "312201",
+        "title": "Production / Operations Supervisor (Manufacturing)"
+    },
+    {
+        "code": "312202",
+        "title": "Maintenance Planner"
+    },
+    {
+        "code": "312301",
+        "title": "Building Associate"
+    },
+    {
+        "code": "313102",
+        "title": "Fossil Power Plant Process Controller"
+    },
+    {
+        "code": "313103",
+        "title": "Hydro Power Plant Process Controller"
+    },
+    {
+        "code": "313104",
+        "title": "Nuclear Power Plant Process Controller"
+    },
+    {
+        "code": "313105",
+        "title": "Wind Turbine Power Plant Process Controller"
+    },
+    {
+        "code": "313106",
+        "title": "Concentrated Solar Power (CSP) Plant Process Controller"
+    },
+    {
+        "code": "313107",
+        "title": "Geothermal Technicians"
+    },
+    {
+        "code": "313108",
+        "title": "Weatherisation Installers and Technicians"
+    },
+    {
+        "code": "313109",
+        "title": "Solar Photovoltaic Service Technician"
+    },
+    {
+        "code": "313110",
+        "title": "Wind Turbine Service Technician"
+    },
+    {
+        "code": "313201",
+        "title": "Water Plant Operator"
+    },
+    {
+        "code": "313202",
+        "title": "Waste Materials Plant Operator"
+    },
+    {
+        "code": "313203",
+        "title": "Water Process Controller"
+    },
+    {
+        "code": "313205",
+        "title": "Water Process Controller"
+    },
+    {
+        "code": "313301",
+        "title": "Chemical Plant Controller"
+    },
+    {
+        "code": "313401",
+        "title": "Gas or Petroleum Controller"
+    },
+    {
+        "code": "313501",
+        "title": "Metal Manufacturing Process Control Technician"
+    },
+    {
+        "code": "313901",
+        "title": "Integrated Manufacturing Line Process Control Technician"
+    },
+    {
+        "code": "313902",
+        "title": "Wood Processing Control Technician"
+    },
+    {
+        "code": "313903",
+        "title": "Clothing, Textile and Footwear Manufacturing Process Control Technician"
+    },
+    {
+        "code": "313905",
+        "title": "Cotton Ginning Process Controller"
+    },
+    {
+        "code": "313906",
+        "title": "Fresh Produce Packing Controller"
+    },
+    {
+        "code": "313907",
+        "title": "Food and Beverage Manufacturing Process Controller"
+    },
+    {
+        "code": "313908",
+        "title": "Sugar Process Controller"
+    },
+    {
+        "code": "313909",
+        "title": "Miller"
+    },
+    {
+        "code": "313910",
+        "title": "Juice Extraction Process Controller"
+    },
+    {
+        "code": "313911",
+        "title": "Grain Handling Controller"
+    },
+    {
+        "code": "313912",
+        "title": "Mineral Beneficiation Process Controller"
+    },
+    {
+        "code": "313913",
+        "title": "Chemical Waste Controller"
+    },
+    {
+        "code": "313916",
+        "title": "Manufacturing Production Technicians"
+    },
+    {
+        "code": "313917",
+        "title": "Pulp and Paper Manufacturing Process Control Technician"
+    },
+    {
+        "code": "314101",
+        "title": "Life Science Technician"
+    },
+    {
+        "code": "314102",
+        "title": "Environmental Science Technician"
+    },
+    {
+        "code": "314201",
+        "title": "Agricultural Technician"
+    },
+    {
+        "code": "314301",
+        "title": "Forestry Technician"
+    },
+    {
+        "code": "314302",
+        "title": "Forestry Research Technician"
+    },
+    {
+        "code": "315101",
+        "title": "Marine Engineer"
+    },
+    {
+        "code": "315201",
+        "title": "Ship's Master"
+    },
+    {
+        "code": "315202",
+        "title": "Ship's Officer"
+    },
+    {
+        "code": "315203",
+        "title": "Ship's Surveyor"
+    },
+    {
+        "code": "315204",
+        "title": "Marine Certification & Surveillance Manager"
+    },
+    {
+        "code": "315205",
+        "title": "Boat Driver / Coxswain"
+    },
+    {
+        "code": "315206",
+        "title": "Aids to Navigation Manager"
+    },
+    {
+        "code": "315207",
+        "title": "Aids to Navigation Technician"
+    },
+    {
+        "code": "315301",
+        "title": "Aircraft Navigator"
+    },
+    {
+        "code": "315302",
+        "title": "Flight Engineer"
+    },
+    {
+        "code": "315303",
+        "title": "Aeroplane Pilot"
+    },
+    {
+        "code": "315304",
+        "title": "Flying Instructor"
+    },
+    {
+        "code": "315305",
+        "title": "Helicopter Pilot"
+    },
+    {
+        "code": "315306",
+        "title": "Balloonist"
+    },
+    {
+        "code": "315401",
+        "title": "Traffic Controller"
+    },
+    {
+        "code": "315501",
+        "title": "Airborne Electronics Analyst"
+    },
+    {
+        "code": "315502",
+        "title": "Airworthiness Surveyor"
+    },
+    {
+        "code": "321101",
+        "title": "Medical Diagnostic Radiographer"
+    },
+    {
+        "code": "321102",
+        "title": "Medical Radiation Therapist"
+    },
+    {
+        "code": "321103",
+        "title": "Nuclear Medicine Technologist"
+    },
+    {
+        "code": "321104",
+        "title": "Sonographer"
+    },
+    {
+        "code": "321105",
+        "title": "Anaesthetic Technician"
+    },
+    {
+        "code": "321106",
+        "title": "Cardiac Technician"
+    },
+    {
+        "code": "321107",
+        "title": "Operating Theatre Technician"
+    },
+    {
+        "code": "321108",
+        "title": "Audiometrist"
+    },
+    {
+        "code": "321109",
+        "title": "Dialysis Technician"
+    },
+    {
+        "code": "321110",
+        "title": "Neurophysiological Technician"
+    },
+    {
+        "code": "321111",
+        "title": "Renal Technician"
+    },
+    {
+        "code": "321112",
+        "title": "Intensive Care Technician"
+    },
+    {
+        "code": "321113",
+        "title": "Orthopaedic Technician"
+    },
+    {
+        "code": "321114",
+        "title": "Health Technical Support Officer"
+    },
+    {
+        "code": "321115",
+        "title": "Medical Electronic Equipment Operator"
+    },
+    {
+        "code": "321116",
+        "title": "Electroencephalographic Technician"
+    },
+    {
+        "code": "321117",
+        "title": "Radiation Laboratory Technician"
+    },
+    {
+        "code": "321118",
+        "title": "Orthotist or Prosthetist"
+    },
+    {
+        "code": "321119",
+        "title": "Pulmonology Clinical Technologist"
+    },
+    {
+        "code": "321120",
+        "title": "Reproductive Biology Clinical Technologist"
+    },
+    {
+        "code": "321121",
+        "title": "Cardiothoracic Perfusion Clinical Technologist"
+    },
+    {
+        "code": "321122",
+        "title": "Occupational Therapy Technician"
+    },
+    {
+        "code": "321123",
+        "title": "Orientation and Mobility Practitioner"
+    },
+    {
+        "code": "321201",
+        "title": "Medical Technician"
+    },
+    {
+        "code": "321206",
+        "title": "Medical Technologist"
+    },
+    {
+        "code": "321301",
+        "title": "Pharmacy Technician"
+    },
+    {
+        "code": "321401",
+        "title": "Clinical Dental Technician"
+    },
+    {
+        "code": "321402",
+        "title": "Dental Technician"
+    },
+    {
+        "code": "321403",
+        "title": "Dental Therapist"
+    },
+    {
+        "code": "321405",
+        "title": "Orthotic and Prosthetic Technician"
+    },
+    {
+        "code": "321406",
+        "title": "Dental Technologist"
+    },
+    {
+        "code": "322101",
+        "title": "Enrolled Nurse"
+    },
+    {
+        "code": "322102",
+        "title": "Mother Craft Nurse"
+    },
+    {
+        "code": "322201",
+        "title": "Assistant Midwife"
+    },
+    {
+        "code": "323101",
+        "title": "Indigenous Heath Worker (Inyanga)"
+    },
+    {
+        "code": "323102",
+        "title": "Ancillary Health Care Worker"
+    },
+    {
+        "code": "323103",
+        "title": "Therapeutic Massage Therapist"
+    },
+    {
+        "code": "323104",
+        "title": "Therapeutic Massage Therapist"
+    },
+    {
+        "code": "323105",
+        "title": "Therapeutic Aromatherapist"
+    },
+    {
+        "code": "323106",
+        "title": "Therapeutic Reflexologist"
+    },
+    {
+        "code": "324101",
+        "title": "Veterinary Nurse"
+    },
+    {
+        "code": "324102",
+        "title": "Veterinary Technician"
+    },
+    {
+        "code": "324103",
+        "title": "Veterinary Technologist"
+    },
+    {
+        "code": "325101",
+        "title": "Dental Assistant"
+    },
+    {
+        "code": "325102",
+        "title": "Oral Hygienist"
+    },
+    {
+        "code": "325103",
+        "title": "Dental Therapist"
+    },
+    {
+        "code": "325201",
+        "title": "Health Information Manager"
+    },
+    {
+        "code": "325301",
+        "title": "Health Promotion Practitioner"
+    },
+    {
+        "code": "325401",
+        "title": "Dispensing Optician"
+    },
+    {
+        "code": "325501",
+        "title": "Massage Therapist"
+    },
+    {
+        "code": "325502",
+        "title": "Hydrotherapist"
+    },
+    {
+        "code": "325503",
+        "title": "Electrotherapist"
+    },
+    {
+        "code": "325504",
+        "title": "Physiotherapy Technician"
+    },
+    {
+        "code": "325601",
+        "title": "Clinical Associate"
+    },
+    {
+        "code": "325701",
+        "title": "Environmental and Occupational Health Inspector"
+    },
+    {
+        "code": "325702",
+        "title": "Marine Safety Officer"
+    },
+    {
+        "code": "325703",
+        "title": "Agricultural / Horticultural Produce Inspector"
+    },
+    {
+        "code": "325704",
+        "title": "Aquaculture Produce Analyst"
+    },
+    {
+        "code": "325705",
+        "title": "Safety Inspector"
+    },
+    {
+        "code": "325706",
+        "title": "Ammunition Technician"
+    },
+    {
+        "code": "325707",
+        "title": "Mine Health and Safety Inspector"
+    },
+    {
+        "code": "325708",
+        "title": "Magazine Master"
+    },
+    {
+        "code": "325801",
+        "title": "Ambulance Officer"
+    },
+    {
+        "code": "325802",
+        "title": "Intensive Care Ambulance Paramedic / Ambulance Paramedic"
+    },
+    {
+        "code": "325901",
+        "title": "Chiropractor"
+    },
+    {
+        "code": "325902",
+        "title": "Osteopath"
+    },
+    {
+        "code": "331101",
+        "title": "Securities Dealer"
+    },
+    {
+        "code": "331105",
+        "title": "Asset Swap Administrator"
+    },
+    {
+        "code": "331106",
+        "title": "Financial Markets Settlement Officer"
+    },
+    {
+        "code": "331201",
+        "title": "Credit or Loans Officer"
+    },
+    {
+        "code": "331204",
+        "title": "False Worker"
+    },
+    {
+        "code": "331205",
+        "title": "Business Banker"
+    },
+    {
+        "code": "331301",
+        "title": "Bookkeeper"
+    },
+    {
+        "code": "331302",
+        "title": "Accounting Technician"
+    },
+    {
+        "code": "331303",
+        "title": "Tax Technician"
+    },
+    {
+        "code": "331401",
+        "title": "Statistical and Mathematical Assistant"
+    },
+    {
+        "code": "331501",
+        "title": "Valuer"
+    },
+    {
+        "code": "331502",
+        "title": "Insurance Investigator"
+    },
+    {
+        "code": "331503",
+        "title": "Insurance Loss Adjuster"
+    },
+    {
+        "code": "331504",
+        "title": "Insurance Risk Surveyor"
+    },
+    {
+        "code": "331505",
+        "title": "Vehicle Damage Quantifier"
+    },
+    {
+        "code": "332101",
+        "title": "Insurance Agent"
+    },
+    {
+        "code": "332102",
+        "title": "Insurance Broker"
+    },
+    {
+        "code": "332201",
+        "title": "Commercial Sales Representative"
+    },
+    {
+        "code": "332202",
+        "title": "Sales Representative (Building and Plumbing Supplies)"
+    },
+    {
+        "code": "332203",
+        "title": "Sales Representative (Personal and Household Goods)"
+    },
+    {
+        "code": "332204",
+        "title": "Commercial Services Sales Agent"
+    },
+    {
+        "code": "332205",
+        "title": "Manufacturers Representative"
+    },
+    {
+        "code": "332206",
+        "title": "Sales Representative (Photographic Equipment and Supplies)"
+    },
+    {
+        "code": "332207",
+        "title": "Chemical Sales Representative"
+    },
+    {
+        "code": "332208",
+        "title": "Pharmacy Sales Assistant"
+    },
+    {
+        "code": "332301",
+        "title": "Retail Buyer"
+    },
+    {
+        "code": "332302",
+        "title": "Purchasing Officer"
+    },
+    {
+        "code": "332401",
+        "title": "Commodities Trader"
+    },
+    {
+        "code": "332402",
+        "title": "Finance Broker"
+    },
+    {
+        "code": "333101",
+        "title": "Clearing and Forwarding Agent"
+    },
+    {
+        "code": "333201",
+        "title": "Events Manager"
+    },
+    {
+        "code": "333301",
+        "title": "Recruitment Consultant / Officer"
+    },
+    {
+        "code": "333302",
+        "title": "Labour Recruitment Consultant: Permanent Employment Agency (PEA)"
+    },
+    {
+        "code": "333303",
+        "title": "Labour Recruitment Consultant: Temporary Employment Services (TES)"
+    },
+    {
+        "code": "333401",
+        "title": "Property Manager"
+    },
+    {
+        "code": "333402",
+        "title": "Real Estate Agent"
+    },
+    {
+        "code": "333404",
+        "title": "Real Estate Sales Settlement Administrator"
+    },
+    {
+        "code": "333405",
+        "title": "Real Estate Agency Principal "
+    },
+    {
+        "code": "333406",
+        "title": "Property Lease Administrator"
+    },
+    {
+        "code": "333901",
+        "title": "Auctioneer"
+    },
+    {
+        "code": "333902",
+        "title": "Special Services Contracting Agent"
+    },
+    {
+        "code": "333903",
+        "title": "Sales Representative (Business Services)"
+    },
+    {
+        "code": "333904",
+        "title": "Business Broker"
+    },
+    {
+        "code": "333905",
+        "title": "Supply Chain Practitioner"
+    },
+    {
+        "code": "333906",
+        "title": "Stock and Station Agent"
+    },
+    {
+        "code": "333907",
+        "title": "Property Portfolio and Asset Manager"
+    },
+    {
+        "code": "333908",
+        "title": "Marketing Coordinator"
+    },
+    {
+        "code": "333909",
+        "title": "Bid Assistant"
+    },
+    {
+        "code": "333910",
+        "title": "Business Support Coordinator"
+    },
+    {
+        "code": "333911",
+        "title": "Physical Asset Practitioner"
+    },
+    {
+        "code": "334101",
+        "title": "Office Supervisor"
+    },
+    {
+        "code": "334102",
+        "title": "Office Administrator"
+    },
+    {
+        "code": "334103",
+        "title": "Call Centre Team Leader"
+    },
+    {
+        "code": "334201",
+        "title": "Legal Secretar"
+    },
+    {
+        "code": "334301",
+        "title": "Secretary Bargaining Council"
+    },
+    {
+        "code": "334302",
+        "title": "Personal Assistant"
+    },
+    {
+        "code": "334401",
+        "title": "Medical Secretar"
+    },
+    {
+        "code": "335101",
+        "title": "Customs Officer"
+    },
+    {
+        "code": "335102",
+        "title": "Immigration Officer"
+    },
+    {
+        "code": "335201",
+        "title": "Taxation Inspector"
+    },
+    {
+        "code": "335301",
+        "title": "Social Security Assessor"
+    },
+    {
+        "code": "335401",
+        "title": "Motor Vehicle Licence Examiner"
+    },
+    {
+        "code": "335402",
+        "title": "Import-export Administrator"
+    },
+    {
+        "code": "335403",
+        "title": "Passport Officer (Issuing)"
+    },
+    {
+        "code": "335501",
+        "title": "Detective"
+    },
+    {
+        "code": "335901",
+        "title": "Labour Inspector"
+    },
+    {
+        "code": "335902",
+        "title": "Wage Inspector"
+    },
+    {
+        "code": "335903",
+        "title": "Refugee Status Determination Officer"
+    },
+    {
+        "code": "335904",
+        "title": "Pest Management Officer"
+    },
+    {
+        "code": "335905",
+        "title": "Water Allocation Officer"
+    },
+    {
+        "code": "335906",
+        "title": "Environmental Practices Inspector"
+    },
+    {
+        "code": "335907",
+        "title": "Weights and Measures Inspector"
+    },
+    {
+        "code": "335908",
+        "title": "Censorship Inspector"
+    },
+    {
+        "code": "335909",
+        "title": "Price Inspector"
+    },
+    {
+        "code": "335910",
+        "title": "Trade Mark Examiner"
+    },
+    {
+        "code": "335911",
+        "title": "Quarantine Officer"
+    },
+    {
+        "code": "335912",
+        "title": "Fisheries Officer"
+    },
+    {
+        "code": "335913",
+        "title": "Building Inspector"
+    },
+    {
+        "code": "335914",
+        "title": "Train Examiner"
+    },
+    {
+        "code": "335915",
+        "title": "Transport Operations Inspector"
+    },
+    {
+        "code": "335916",
+        "title": "Gaming Operations Compliance Officer"
+    },
+    {
+        "code": "341101",
+        "title": "Conveyancer"
+    },
+    {
+        "code": "341102",
+        "title": "Legal Executive"
+    },
+    {
+        "code": "341103",
+        "title": "Paralegal"
+    },
+    {
+        "code": "341104",
+        "title": "Clerk of Court"
+    },
+    {
+        "code": "341105",
+        "title": "Court Bailiff"
+    },
+    {
+        "code": "341106",
+        "title": "Court Orderly / Court Registry Officer"
+    },
+    {
+        "code": "341107",
+        "title": "Law Clerk"
+    },
+    {
+        "code": "341108",
+        "title": "Trust Officer"
+    },
+    {
+        "code": "341109",
+        "title": "Private Investigator"
+    },
+    {
+        "code": "341110",
+        "title": "Associate Legal Professional"
+    },
+    {
+        "code": "341111",
+        "title": "Debt Counsellor"
+    },
+    {
+        "code": "341112",
+        "title": "Labour Dispute Enforcement Agent"
+    },
+    {
+        "code": "341201",
+        "title": "Auxiliary Community Development Practitioner"
+    },
+    {
+        "code": "341202",
+        "title": "Disabilities Services Officer"
+    },
+    {
+        "code": "341203",
+        "title": "Social Auxiliary Worker"
+    },
+    {
+        "code": "341204",
+        "title": "Auxiliary Child and Youth Care Worker"
+    },
+    {
+        "code": "341301",
+        "title": "Religious Associate Professional"
+    },
+    {
+        "code": "342101",
+        "title": "Footballer"
+    },
+    {
+        "code": "342102",
+        "title": "Golfer"
+    },
+    {
+        "code": "342103",
+        "title": "Jocke"
+    },
+    {
+        "code": "342104",
+        "title": "Cricketer"
+    },
+    {
+        "code": "342105",
+        "title": "Athlete"
+    },
+    {
+        "code": "342106",
+        "title": "Boxer"
+    },
+    {
+        "code": "342107",
+        "title": "Cyclist"
+    },
+    {
+        "code": "342108",
+        "title": "Racing Driver"
+    },
+    {
+        "code": "342109",
+        "title": "Surfer"
+    },
+    {
+        "code": "342110",
+        "title": "Swimmer"
+    },
+    {
+        "code": "342111",
+        "title": "Tennis Player"
+    },
+    {
+        "code": "342112",
+        "title": "Wrestler"
+    },
+    {
+        "code": "342113",
+        "title": "Yachtsman"
+    },
+    {
+        "code": "342114",
+        "title": "Other Sportsperson"
+    },
+    {
+        "code": "342201",
+        "title": "Sports Development Officer"
+    },
+    {
+        "code": "342202",
+        "title": "Sports Umpire"
+    },
+    {
+        "code": "342203",
+        "title": "Sports Official"
+    },
+    {
+        "code": "342204",
+        "title": "Sports Coach or Instructor"
+    },
+    {
+        "code": "342301",
+        "title": "Fitness Instructor"
+    },
+    {
+        "code": "342302",
+        "title": "Outdoor Adventure Guide"
+    },
+    {
+        "code": "342303",
+        "title": "Caving Guide"
+    },
+    {
+        "code": "343101",
+        "title": "Photographer"
+    },
+    {
+        "code": "343102",
+        "title": "Air Observer"
+    },
+    {
+        "code": "343201",
+        "title": "Interior Designer"
+    },
+    {
+        "code": "343202",
+        "title": "Interior Decorator"
+    },
+    {
+        "code": "343203",
+        "title": "Visual Merchandiser"
+    },
+    {
+        "code": "343204",
+        "title": "Set Designer"
+    },
+    {
+        "code": "343301",
+        "title": "Gallery or Museum Technician"
+    },
+    {
+        "code": "343302",
+        "title": "Library Technician"
+    },
+    {
+        "code": "343401",
+        "title": "Chef"
+    },
+    {
+        "code": "343901",
+        "title": "Tattoo Artist"
+    },
+    {
+        "code": "343902",
+        "title": "Light Technician"
+    },
+    {
+        "code": "343903",
+        "title": "Stage Manager"
+    },
+    {
+        "code": "343904",
+        "title": "Theatrical Dresser"
+    },
+    {
+        "code": "343905",
+        "title": "Stunt Person"
+    },
+    {
+        "code": "343906",
+        "title": "Special Effects Person"
+    },
+    {
+        "code": "343907",
+        "title": "Continuity Person"
+    },
+    {
+        "code": "343908",
+        "title": "Film Technician"
+    },
+    {
+        "code": "343909",
+        "title": "Microphone Boom Operator"
+    },
+    {
+        "code": "343910",
+        "title": "Performing Arts Road Manager"
+    },
+    {
+        "code": "351101",
+        "title": "Computer Operator"
+    },
+    {
+        "code": "351201",
+        "title": "ICT Communications Assistant"
+    },
+    {
+        "code": "351301",
+        "title": "Computer Network Technician"
+    },
+    {
+        "code": "351302",
+        "title": "Geographic Information Systems Technicians"
+    },
+    {
+        "code": "351303",
+        "title": "Marine GIS Technician"
+    },
+    {
+        "code": "351401",
+        "title": "Web Technician"
+    },
+    {
+        "code": "352101",
+        "title": "Broadcast Transmitter Operator"
+    },
+    {
+        "code": "352102",
+        "title": "Camera Operator (Film, Television or Video)"
+    },
+    {
+        "code": "352103",
+        "title": "Sound Technician"
+    },
+    {
+        "code": "352104",
+        "title": "Television Equipment Operator"
+    },
+    {
+        "code": "352105",
+        "title": "Radio Station Operator"
+    },
+    {
+        "code": "352106",
+        "title": "Production Assistant (Film, Television or Radio)"
+    },
+    {
+        "code": "352201",
+        "title": "Telecommunications Technical Officer or Technologist"
+    },
+    {
+        "code": "411101",
+        "title": "General Clerk"
+    },
+    {
+        "code": "411102",
+        "title": "Back Office Process Consultant"
+    },
+    {
+        "code": "411103",
+        "title": "Parole Board Clerk"
+    },
+    {
+        "code": "412101",
+        "title": "Secretary (General)"
+    },
+    {
+        "code": "413101",
+        "title": "Word Processing Operator"
+    },
+    {
+        "code": "413102",
+        "title": "Machine Shorthand Reporter"
+    },
+    {
+        "code": "413201",
+        "title": "Data Entry Operator"
+    },
+    {
+        "code": "421101",
+        "title": "Bank Teller"
+    },
+    {
+        "code": "421102",
+        "title": "Bank Worker"
+    },
+    {
+        "code": "421103",
+        "title": "Currency Exchange Officer"
+    },
+    {
+        "code": "421104",
+        "title": "Banknote Processor"
+    },
+    {
+        "code": "421105",
+        "title": "Postal Frontline Service Worker"
+    },
+    {
+        "code": "421201",
+        "title": "Bookmaker"
+    },
+    {
+        "code": "421202",
+        "title": "Gaming Worker"
+    },
+    {
+        "code": "421203",
+        "title": "Betting Agency Counter Clerk"
+    },
+    {
+        "code": "421204",
+        "title": "Bookmaker's Clerk"
+    },
+    {
+        "code": "421205",
+        "title": "Telephone Betting Clerk"
+    },
+    {
+        "code": "421206",
+        "title": "Bingo Caller"
+    },
+    {
+        "code": "421207",
+        "title": "Lotto Operator"
+    },
+    {
+        "code": "421301",
+        "title": "Pawnbrokers and Money-lenders"
+    },
+    {
+        "code": "421401",
+        "title": "Debt Collector"
+    },
+    {
+        "code": "422101",
+        "title": "Tourist Information Officer"
+    },
+    {
+        "code": "422102",
+        "title": "Travel Consultant"
+    },
+    {
+        "code": "422201",
+        "title": "Inbound Contact Centre Consultant"
+    },
+    {
+        "code": "422202",
+        "title": "Outbound Contact Centre Consultant"
+    },
+    {
+        "code": "422203",
+        "title": "Contact Centre Real Time Advisor"
+    },
+    {
+        "code": "422204",
+        "title": "Contact Centre Resource Planner"
+    },
+    {
+        "code": "422205",
+        "title": "Contact Centre Forecast Analyst"
+    },
+    {
+        "code": "422206",
+        "title": "Call or Contact Centre Agent"
+    },
+    {
+        "code": "422301",
+        "title": "Switchboard Operator"
+    },
+    {
+        "code": "422401",
+        "title": "Hotel or Motel Receptionist"
+    },
+    {
+        "code": "422501",
+        "title": "Enquiry Clerk"
+    },
+    {
+        "code": "422601",
+        "title": "Receptionist (General)"
+    },
+    {
+        "code": "422602",
+        "title": "Medical Receptionist"
+    },
+    {
+        "code": "422701",
+        "title": "Survey Interviewer"
+    },
+    {
+        "code": "422901",
+        "title": "Admissions Clerk"
+    },
+    {
+        "code": "422902",
+        "title": "Ship's Purser"
+    },
+    {
+        "code": "431101",
+        "title": "Accounts Clerk"
+    },
+    {
+        "code": "431102",
+        "title": "Cost Clerk"
+    },
+    {
+        "code": "431103",
+        "title": "Taxation Clerk"
+    },
+    {
+        "code": "431201",
+        "title": "Insurance Administrator"
+    },
+    {
+        "code": "431202",
+        "title": "Securities Services Administrative Officer"
+    },
+    {
+        "code": "431203",
+        "title": "Statistical Clerk"
+    },
+    {
+        "code": "431204",
+        "title": "Insurance Claims Administrator"
+    },
+    {
+        "code": "431301",
+        "title": "Payroll Clerk"
+    },
+    {
+        "code": "432101",
+        "title": "Stock Clerk / Officer"
+    },
+    {
+        "code": "432102",
+        "title": "Dispatching and Receiving Clerk / Officer"
+    },
+    {
+        "code": "432103",
+        "title": "Order Clerk / Officer"
+    },
+    {
+        "code": "432104",
+        "title": "Warehouse Administrator / Clerk"
+    },
+    {
+        "code": "432105",
+        "title": "Lampman"
+    },
+    {
+        "code": "432201",
+        "title": "Production Coordinator"
+    },
+    {
+        "code": "432301",
+        "title": "Transport Clerk"
+    },
+    {
+        "code": "441101",
+        "title": "Library Assistant"
+    },
+    {
+        "code": "441201",
+        "title": "Courier"
+    },
+    {
+        "code": "441202",
+        "title": "Postal Delivery Officer"
+    },
+    {
+        "code": "441203",
+        "title": "Mail Clerk"
+    },
+    {
+        "code": "441301",
+        "title": "Coding Clerk"
+    },
+    {
+        "code": "441302",
+        "title": "Proof Reader"
+    },
+    {
+        "code": "441401",
+        "title": "Scribe"
+    },
+    {
+        "code": "441501",
+        "title": "Filing or Registry Clerk"
+    },
+    {
+        "code": "441502",
+        "title": "Office Machine Operator"
+    },
+    {
+        "code": "441601",
+        "title": "Human Resources Clerk"
+    },
+    {
+        "code": "441602",
+        "title": "Skills Development Administrator"
+    },
+    {
+        "code": "441603",
+        "title": "Compensation and Benefits Clerk"
+    },
+    {
+        "code": "441604",
+        "title": "Labour Relations Case Administrator"
+    },
+    {
+        "code": "441605",
+        "title": "Academic Administrative Officer"
+    },
+    {
+        "code": "441901",
+        "title": "Classified Advertising Clerk"
+    },
+    {
+        "code": "441902",
+        "title": "Contract Administrator"
+    },
+    {
+        "code": "441903",
+        "title": "Program or Project Administrators"
+    },
+    {
+        "code": "441905",
+        "title": "Account Clerk (Public Relations / Communication)"
+    },
+    {
+        "code": "511101",
+        "title": "Flight Attendant"
+    },
+    {
+        "code": "511102",
+        "title": "Bus Hostess"
+    },
+    {
+        "code": "511103",
+        "title": "Marine Steward"
+    },
+    {
+        "code": "511104",
+        "title": "Railway Steward"
+    },
+    {
+        "code": "511201",
+        "title": "Transport Conductor"
+    },
+    {
+        "code": "511301",
+        "title": "Gallery or Museum Guide"
+    },
+    {
+        "code": "511302",
+        "title": "Tour Guide"
+    },
+    {
+        "code": "512101",
+        "title": "Cook"
+    },
+    {
+        "code": "513101",
+        "title": "Waiter"
+    },
+    {
+        "code": "513102",
+        "title": "Cafe Worker"
+    },
+    {
+        "code": "513201",
+        "title": "Bar Attendant"
+    },
+    {
+        "code": "513202",
+        "title": "Barista"
+    },
+    {
+        "code": "514101",
+        "title": "Hairdresser"
+    },
+    {
+        "code": "514102",
+        "title": "Hair or Beauty Salon Assistant"
+    },
+    {
+        "code": "514201",
+        "title": "Skin Care Therapist"
+    },
+    {
+        "code": "514202",
+        "title": "Body Therapist"
+    },
+    {
+        "code": "514203",
+        "title": "Hair Removal Technician"
+    },
+    {
+        "code": "514204",
+        "title": "Nail Technician"
+    },
+    {
+        "code": "514205",
+        "title": "Make Up Artist"
+    },
+    {
+        "code": "514206",
+        "title": "Weight Loss Consultant"
+    },
+    {
+        "code": "514207",
+        "title": "Somatologist"
+    },
+    {
+        "code": "515101",
+        "title": "Hotel Service Manager"
+    },
+    {
+        "code": "515102",
+        "title": "Housekeeping Service Manager"
+    },
+    {
+        "code": "515103",
+        "title": "Commercial Housekeeper"
+    },
+    {
+        "code": "515104",
+        "title": "Cleaning Practitioner"
+    },
+    {
+        "code": "515201",
+        "title": "Domestic Housekeeper"
+    },
+    {
+        "code": "515202",
+        "title": "Butler"
+    },
+    {
+        "code": "515301",
+        "title": "Caretaker"
+    },
+    {
+        "code": "515302",
+        "title": "Amusement, Fitness or Sport Centre Attendant"
+    },
+    {
+        "code": "516101",
+        "title": "Astrologer"
+    },
+    {
+        "code": "516201",
+        "title": "Escort"
+    },
+    {
+        "code": "516301",
+        "title": "Funeral Director"
+    },
+    {
+        "code": "516302",
+        "title": "Chapel or Memorial Attendant"
+    },
+    {
+        "code": "516303",
+        "title": "Embalmer"
+    },
+    {
+        "code": "516304",
+        "title": "Mortician"
+    },
+    {
+        "code": "516305",
+        "title": "Mortuary Technician / Assistant"
+    },
+    {
+        "code": "516306",
+        "title": "Crematorium Operator"
+    },
+    {
+        "code": "516401",
+        "title": "Animal Attendant / Groomer"
+    },
+    {
+        "code": "516402",
+        "title": "Animal Trainer"
+    },
+    {
+        "code": "516403",
+        "title": "Zookeeper"
+    },
+    {
+        "code": "516404",
+        "title": "Dog Walker"
+    },
+    {
+        "code": "516501",
+        "title": "Driving Instructor"
+    },
+    {
+        "code": "516901",
+        "title": "Refuge Worker"
+    },
+    {
+        "code": "516902",
+        "title": "Civil Celebrant"
+    },
+    {
+        "code": "521101",
+        "title": "Street Market Vendor"
+    },
+    {
+        "code": "521201",
+        "title": "Street Food Sales Person"
+    },
+    {
+        "code": "521202",
+        "title": "Cash Van Salesperson"
+    },
+    {
+        "code": "522101",
+        "title": "Antique Dealer"
+    },
+    {
+        "code": "522102",
+        "title": "Salon Manager"
+    },
+    {
+        "code": "522201",
+        "title": "Retail Supervisor"
+    },
+    {
+        "code": "522301",
+        "title": "Sales Assistant (General)"
+    },
+    {
+        "code": "522302",
+        "title": "Motorised Vehicle or Caravan Salesperson"
+    },
+    {
+        "code": "522303",
+        "title": "Automotive Parts Salesperson"
+    },
+    {
+        "code": "522304",
+        "title": "ICT Sales Assistant"
+    },
+    {
+        "code": "523101",
+        "title": "Checkout Operator"
+    },
+    {
+        "code": "523102",
+        "title": "Office Cashier"
+    },
+    {
+        "code": "523103",
+        "title": "Ticket Seller"
+    },
+    {
+        "code": "524101",
+        "title": "Model"
+    },
+    {
+        "code": "524102",
+        "title": "Event Stylist"
+    },
+    {
+        "code": "524201",
+        "title": "Sales Demonstrator"
+    },
+    {
+        "code": "524301",
+        "title": "Door-to-door Salesperson"
+    },
+    {
+        "code": "524401",
+        "title": "Call Centre Salesperson"
+    },
+    {
+        "code": "524501",
+        "title": "Service Station Attendant"
+    },
+    {
+        "code": "524601",
+        "title": "Food Service Counter Attendant"
+    },
+    {
+        "code": "524901",
+        "title": "Materials Recycler"
+    },
+    {
+        "code": "524902",
+        "title": "Rental Salesperson"
+    },
+    {
+        "code": "524903",
+        "title": "Sales Clerk / Officer"
+    },
+    {
+        "code": "524904",
+        "title": "Energy Broker"
+    },
+    {
+        "code": "531101",
+        "title": "Child Care Worker"
+    },
+    {
+        "code": "531102",
+        "title": "Family Day Care Worker"
+    },
+    {
+        "code": "531103",
+        "title": "Nann"
+    },
+    {
+        "code": "531104",
+        "title": "Out of School Hours Care Worker"
+    },
+    {
+        "code": "531105",
+        "title": "Child or Youth Residential Care Assistant"
+    },
+    {
+        "code": "531106",
+        "title": "Hostel Parent"
+    },
+    {
+        "code": "531201",
+        "title": "Teachers' Aide"
+    },
+    {
+        "code": "531202",
+        "title": "Pre-School Aide"
+    },
+    {
+        "code": "531203",
+        "title": "Integration Aide"
+    },
+    {
+        "code": "532201",
+        "title": "Residential Care Officer"
+    },
+    {
+        "code": "532202",
+        "title": "Aged or Disabled Carer"
+    },
+    {
+        "code": "532203",
+        "title": "Community Health Worker"
+    },
+    {
+        "code": "532901",
+        "title": "First Aid Attendant"
+    },
+    {
+        "code": "532902",
+        "title": "Hospital Orderl"
+    },
+    {
+        "code": "532903",
+        "title": "Nursing Support Worker"
+    },
+    {
+        "code": "532904",
+        "title": "Personal Care Assistant"
+    },
+    {
+        "code": "532905",
+        "title": "Therapy Aide"
+    },
+    {
+        "code": "532906",
+        "title": "Natural Remedy Consultant"
+    },
+    {
+        "code": "541101",
+        "title": "Fire Fighter"
+    },
+    {
+        "code": "541102",
+        "title": "Hazardous Materials Removal Workers"
+    },
+    {
+        "code": "541201",
+        "title": "Traffic Officer"
+    },
+    {
+        "code": "541202",
+        "title": " Non - commissioned Police Official"
+    },
+    {
+        "code": "541203",
+        "title": "Military Police Official"
+    },
+    {
+        "code": "541301",
+        "title": "Prison Officer"
+    },
+    {
+        "code": "541401",
+        "title": "Security Officer"
+    },
+    {
+        "code": "541402",
+        "title": "Alarm, Security or Surveillance Monitor"
+    },
+    {
+        "code": "541403",
+        "title": "Retail Loss Prevention Officer"
+    },
+    {
+        "code": "541501",
+        "title": "Intelligence Operator"
+    },
+    {
+        "code": "541901",
+        "title": "Lifeguard"
+    },
+    {
+        "code": "541902",
+        "title": "Emergency Service and Rescue Official"
+    },
+    {
+        "code": "541903",
+        "title": "Parking Inspector"
+    },
+    {
+        "code": "541904",
+        "title": "Armoured Car Escort"
+    },
+    {
+        "code": "541905",
+        "title": "Crowd Controller"
+    },
+    {
+        "code": "541906",
+        "title": "Security Consultant"
+    },
+    {
+        "code": "541907",
+        "title": "Disaster Management Officer"
+    },
+    {
+        "code": "542101",
+        "title": "Naval Combat Operator"
+    },
+    {
+        "code": "542102",
+        "title": "Naval Combat Officer"
+    },
+    {
+        "code": "542201",
+        "title": "Special Forces Manager"
+    },
+    {
+        "code": "542202",
+        "title": "Special Forces Officer"
+    },
+    {
+        "code": "542203",
+        "title": "Special Forces Operator"
+    },
+    {
+        "code": "542301",
+        "title": "Infantry Soldier"
+    },
+    {
+        "code": "542302",
+        "title": "Artillery Soldier"
+    },
+    {
+        "code": "542303",
+        "title": "Air Defence Artillery Soldier"
+    },
+    {
+        "code": "542304",
+        "title": "Armour Soldier"
+    },
+    {
+        "code": "542305",
+        "title": "Engineer Soldier"
+    },
+    {
+        "code": "542306",
+        "title": "Signal Soldier"
+    },
+    {
+        "code": "542401",
+        "title": "Combat Medical Support Operator"
+    },
+    {
+        "code": "542501",
+        "title": "Air Operations Officer"
+    },
+    {
+        "code": "611101",
+        "title": "Agronomy Farmer"
+    },
+    {
+        "code": "611102",
+        "title": "Field Vegetable Farmer"
+    },
+    {
+        "code": "611201",
+        "title": "Arboriculture Farmer"
+    },
+    {
+        "code": "611202",
+        "title": "Horticultural Farmer"
+    },
+    {
+        "code": "611301",
+        "title": "Ornamental Horticultural Farmer"
+    },
+    {
+        "code": "611302",
+        "title": "Landscape Gardener"
+    },
+    {
+        "code": "611303",
+        "title": "Green Keeper"
+    },
+    {
+        "code": "611304",
+        "title": "Nurseryperson"
+    },
+    {
+        "code": "611401",
+        "title": "Mixed Crop Farm Production Manager / Foreman"
+    },
+    {
+        "code": "612101",
+        "title": "Livestock Farmer"
+    },
+    {
+        "code": "612102",
+        "title": "Dairy Farmer"
+    },
+    {
+        "code": "612201",
+        "title": "Poultry Farmer"
+    },
+    {
+        "code": "612202",
+        "title": "Ratites Farmer"
+    },
+    {
+        "code": "612301",
+        "title": "Insect Farmer"
+    },
+    {
+        "code": "612901",
+        "title": "Avian Farmer"
+    },
+    {
+        "code": "612902",
+        "title": "Game Farmer"
+    },
+    {
+        "code": "613101",
+        "title": "Mixed Crop and Livestock Farmer"
+    },
+    {
+        "code": "621101",
+        "title": "Tree Feller"
+    },
+    {
+        "code": "621102",
+        "title": "Forest and Conservation Workers"
+    },
+    {
+        "code": "622101",
+        "title": "Aquaculture Farmer"
+    },
+    {
+        "code": "622102",
+        "title": "Mariculture Farmer"
+    },
+    {
+        "code": "622201",
+        "title": "Skipper (Fishing Boat)"
+    },
+    {
+        "code": "622301",
+        "title": "Master Fisher"
+    },
+    {
+        "code": "622401",
+        "title": "Hunter"
+    },
+    {
+        "code": "631101",
+        "title": "Subsistence Crop Farmer"
+    },
+    {
+        "code": "631201",
+        "title": "Subsistence Livestock Farmer"
+    },
+    {
+        "code": "631301",
+        "title": "Subsistence Mixed Crop and Livestock Farmers"
+    },
+    {
+        "code": "641101",
+        "title": "House Builder"
+    },
+    {
+        "code": "641201",
+        "title": "Bricklayer"
+    },
+    {
+        "code": "641301",
+        "title": "Stonemason"
+    },
+    {
+        "code": "641302",
+        "title": "Granite Cutter"
+    },
+    {
+        "code": "641303",
+        "title": "Refractory Mason"
+    },
+    {
+        "code": "641401",
+        "title": "Concreter"
+    },
+    {
+        "code": "641402",
+        "title": "Fibre-cement Moulder"
+    },
+    {
+        "code": "641403",
+        "title": "Civil Engineering Constructor"
+    },
+    {
+        "code": "641501",
+        "title": "Carpenter and Joiner"
+    },
+    {
+        "code": "641502",
+        "title": "Carpenter"
+    },
+    {
+        "code": "641503",
+        "title": "Joiner"
+    },
+    {
+        "code": "641901",
+        "title": "Demolition Technician"
+    },
+    {
+        "code": "641902",
+        "title": "Scaffolder"
+    },
+    {
+        "code": "641903",
+        "title": "Falseworker"
+    },
+    {
+        "code": "642101",
+        "title": "Roof Tiler"
+    },
+    {
+        "code": "642102",
+        "title": "Roof Plumber"
+    },
+    {
+        "code": "642103",
+        "title": "Roof Thatcher"
+    },
+    {
+        "code": "642201",
+        "title": "Wall and Floor Tiler"
+    },
+    {
+        "code": "642202",
+        "title": "Floor Finisher"
+    },
+    {
+        "code": "642301",
+        "title": "Fibrous Plasterer"
+    },
+    {
+        "code": "642302",
+        "title": "Plasterer"
+    },
+    {
+        "code": "642401",
+        "title": "Insulation Installer"
+    },
+    {
+        "code": "642501",
+        "title": "Glazier"
+    },
+    {
+        "code": "642601",
+        "title": "Plumber"
+    },
+    {
+        "code": "642602",
+        "title": "Solar Installer"
+    },
+    {
+        "code": "642603",
+        "title": "Gas Practitioner"
+    },
+    {
+        "code": "642604",
+        "title": "Fire Services Plumber"
+    },
+    {
+        "code": "642605",
+        "title": "Plumbing Inspector"
+    },
+    {
+        "code": "642606",
+        "title": "Heat Pump Installer"
+    },
+    {
+        "code": "642607",
+        "title": "Pipe Fitter"
+    },
+    {
+        "code": "642701",
+        "title": "Air-conditioning and Refrigeration Mechanic"
+    },
+    {
+        "code": "642702",
+        "title": "Refrigeration Mechanic"
+    },
+    {
+        "code": "643101",
+        "title": "Painter"
+    },
+    {
+        "code": "643201",
+        "title": "Industrial Spraypainter"
+    },
+    {
+        "code": "643202",
+        "title": "Vehicle Painter"
+    },
+    {
+        "code": "643302",
+        "title": "Chimney Cleaner"
+    },
+    {
+        "code": "651101",
+        "title": "Moulder"
+    },
+    {
+        "code": "651201",
+        "title": "Pressure Welder"
+    },
+    {
+        "code": "651202",
+        "title": "Welder"
+    },
+    {
+        "code": "651203",
+        "title": "Fitter-welder"
+    },
+    {
+        "code": "651204",
+        "title": "Gas Cutter"
+    },
+    {
+        "code": "651301",
+        "title": "Sheet Metal Worker"
+    },
+    {
+        "code": "651302",
+        "title": "Boiler Maker"
+    },
+    {
+        "code": "651401",
+        "title": "Metal Fabricator"
+    },
+    {
+        "code": "651402",
+        "title": "Structural Steel Erector"
+    },
+    {
+        "code": "651403",
+        "title": "Steel Fixer"
+    },
+    {
+        "code": "651404",
+        "title": "Structural Plater"
+    },
+    {
+        "code": "651501",
+        "title": "Rigger"
+    },
+    {
+        "code": "651502",
+        "title": "Cable and Rope Splicer"
+    },
+    {
+        "code": "652101",
+        "title": "Blacksmith"
+    },
+    {
+        "code": "652102",
+        "title": "Forging Press Worker"
+    },
+    {
+        "code": "652201",
+        "title": "Toolmaker"
+    },
+    {
+        "code": "652202",
+        "title": "Gunsmith"
+    },
+    {
+        "code": "652203",
+        "title": "Locksmith"
+    },
+    {
+        "code": "652204",
+        "title": "Patternmaker"
+    },
+    {
+        "code": "652205",
+        "title": "Master Toolmaker"
+    },
+    {
+        "code": "652206",
+        "title": "Die Sinker"
+    },
+    {
+        "code": "652301",
+        "title": "Metal Machinist"
+    },
+    {
+        "code": "652302",
+        "title": "Fitter and Turner"
+    },
+    {
+        "code": "652401",
+        "title": "Metal Polisher"
+    },
+    {
+        "code": "652402",
+        "title": "Tool Grinder and Sharpener"
+    },
+    {
+        "code": "652403",
+        "title": "Saw Maker and Repairer"
+    },
+    {
+        "code": "652404",
+        "title": "Grinder"
+    },
+    {
+        "code": "653101",
+        "title": "Automotive Motor Mechanic"
+    },
+    {
+        "code": "653103",
+        "title": "Motorcycle Mechanic"
+    },
+    {
+        "code": "653109",
+        "title": "Automotive Engine Mechanic"
+    },
+    {
+        "code": "653201",
+        "title": "Aircraft Maintenance Mechanic"
+    },
+    {
+        "code": "653202",
+        "title": "Aircraft Structures Worker"
+    },
+    {
+        "code": "653301",
+        "title": "Industrial Machinery Mechanic"
+    },
+    {
+        "code": "653302",
+        "title": "Mechanical Equipment Repairer"
+    },
+    {
+        "code": "653303",
+        "title": "Mechanical Fitter"
+    },
+    {
+        "code": "653304",
+        "title": "Diesel Fitter"
+    },
+    {
+        "code": "653305",
+        "title": "Small Engine Mechanic"
+    },
+    {
+        "code": "653306",
+        "title": "Diesel Mechanic"
+    },
+    {
+        "code": "653307",
+        "title": "Heavy Equipment Mechanic"
+    },
+    {
+        "code": "653308",
+        "title": "Tractor Mechanic"
+    },
+    {
+        "code": "653309",
+        "title": "Forklift Mechanic"
+    },
+    {
+        "code": "653310",
+        "title": "Lubrication Equipment Mechanic"
+    },
+    {
+        "code": "653401",
+        "title": "Bicycle Mechanic"
+    },
+    {
+        "code": "653402",
+        "title": "Non-motorised Transport Equipment Repairer"
+    },
+    {
+        "code": "661101",
+        "title": "Precision Instrument Maker and Repairer"
+    },
+    {
+        "code": "661102",
+        "title": "Watch and Clock Maker and Repairer"
+    },
+    {
+        "code": "661103",
+        "title": "Scale Fitter"
+    },
+    {
+        "code": "661201",
+        "title": "Musical Instrument Maker or Repairer"
+    },
+    {
+        "code": "661301",
+        "title": "Goldsmith"
+    },
+    {
+        "code": "661302",
+        "title": "Diamond and Gemstone Setter"
+    },
+    {
+        "code": "661303",
+        "title": "Jewellery Evaluator"
+    },
+    {
+        "code": "661304",
+        "title": "Diamond Sorter and Evaluator"
+    },
+    {
+        "code": "661401",
+        "title": "Potter or Ceramic Artist"
+    },
+    {
+        "code": "661501",
+        "title": "Glass Maker"
+    },
+    {
+        "code": "661502",
+        "title": "Optical Mechanic"
+    },
+    {
+        "code": "661601",
+        "title": "Signwriter"
+    },
+    {
+        "code": "661602",
+        "title": "Engraver"
+    },
+    {
+        "code": "661701",
+        "title": "Basket, Cane and Wicker Worker"
+    },
+    {
+        "code": "661702",
+        "title": "Carver"
+    },
+    {
+        "code": "661703",
+        "title": "Cane Furniture Maker"
+    },
+    {
+        "code": "661801",
+        "title": "Textile, Leather and Related Materials Handicraft Workers"
+    },
+    {
+        "code": "661901",
+        "title": "Metal Toymaker"
+    },
+    {
+        "code": "662101",
+        "title": "Electronic Pre-press"
+    },
+    {
+        "code": "662104",
+        "title": "Electronic Originator"
+    },
+    {
+        "code": "662105",
+        "title": "Gravure Cylinder Preparation Technician"
+    },
+    {
+        "code": "662106",
+        "title": "Process Engraver"
+    },
+    {
+        "code": "662107",
+        "title": "Printing Plate Maker"
+    },
+    {
+        "code": "662201",
+        "title": "Printing Machinist"
+    },
+    {
+        "code": "662202",
+        "title": "Small Offset Lithography Operator"
+    },
+    {
+        "code": "662203",
+        "title": "Screen Printer"
+    },
+    {
+        "code": "662204",
+        "title": "Paper Sheetfed Offset Lithography Technician"
+    },
+    {
+        "code": "662205",
+        "title": "Metal Sheetfed Offset Lithography Technician"
+    },
+    {
+        "code": "662206",
+        "title": "Continuous Stationery Printing Machine Technician"
+    },
+    {
+        "code": "662207",
+        "title": "Monoblock Offset Machine Technician"
+    },
+    {
+        "code": "662208",
+        "title": "Roll Label Machine Technician"
+    },
+    {
+        "code": "662209",
+        "title": "Gravure Printing Technician"
+    },
+    {
+        "code": "662210",
+        "title": "Heatset Rotary Offset Lithography Technician"
+    },
+    {
+        "code": "662211",
+        "title": "Coldset Rotary Offset Lithographic Printing Technician (Coldset)"
+    },
+    {
+        "code": "662212",
+        "title": "Rotary Printing and Re-reeling Flexographic Machine Technician"
+    },
+    {
+        "code": "662213",
+        "title": "Rotary Printing and Re-reeling Gravure Machine Technician"
+    },
+    {
+        "code": "662215",
+        "title": "Stationery Machine Technician"
+    },
+    {
+        "code": "662216",
+        "title": "Commercial Digital Printer"
+    },
+    {
+        "code": "662301",
+        "title": "Mechanized soft-cover bookbinding technician"
+    },
+    {
+        "code": "662303",
+        "title": "Mechanised Bookbinding Technician"
+    },
+    {
+        "code": "662304",
+        "title": "Craft Bookbinding Technician"
+    },
+    {
+        "code": "662305",
+        "title": "Mechanised Hard-cover Bookbinding Technician"
+    },
+    {
+        "code": "662307",
+        "title": "Folding Machine Operator (Paper Products)"
+    },
+    {
+        "code": "662308",
+        "title": "Saddle Stitch Machine Operator"
+    },
+    {
+        "code": "662309",
+        "title": "Adhesive Binding Machine Operator"
+    },
+    {
+        "code": "662310",
+        "title": "Book Sewing Machine Operator"
+    },
+    {
+        "code": "662311",
+        "title": "Gathering Machine Operator"
+    },
+    {
+        "code": "662312",
+        "title": "Commercial Mailing Machine Operator"
+    },
+    {
+        "code": "662313",
+        "title": "Newspaper and Magazine Mailroom Machine Operator"
+    },
+    {
+        "code": "662314",
+        "title": "Envelope Manufacturing Machine Operator"
+    },
+    {
+        "code": "662315",
+        "title": "Coating Machine Operator"
+    },
+    {
+        "code": "662316",
+        "title": "Foiling Machine Operator"
+    },
+    {
+        "code": "662317",
+        "title": "Roll Label Rewind Machine Operator"
+    },
+    {
+        "code": "671101",
+        "title": "Electrician"
+    },
+    {
+        "code": "671102",
+        "title": "Electrical Installation Inspector"
+    },
+    {
+        "code": "671202",
+        "title": "Millwright"
+    },
+    {
+        "code": "671203",
+        "title": "Mechatronics Technician"
+    },
+    {
+        "code": "671204",
+        "title": "Lift Mechanic"
+    },
+    {
+        "code": "671205",
+        "title": "Weapon Systems Mechanic"
+    },
+    {
+        "code": "671206",
+        "title": "Electrical Equipment Mechanic"
+    },
+    {
+        "code": "671207",
+        "title": "Armature Winder"
+    },
+    {
+        "code": "671208",
+        "title": "Transportation Electrician"
+    },
+    {
+        "code": "671301",
+        "title": "Electrical Line Mechanic"
+    },
+    {
+        "code": "671302",
+        "title": "Cable Jointer"
+    },
+    {
+        "code": "672101",
+        "title": "Avionics Mechanician"
+    },
+    {
+        "code": "672102",
+        "title": "Radar Mechanic"
+    },
+    {
+        "code": "672103",
+        "title": "Business Machine Mechanic"
+    },
+    {
+        "code": "672104",
+        "title": "Electronic Equipment Mechanician"
+    },
+    {
+        "code": "672105",
+        "title": "Instrument Mechanician"
+    },
+    {
+        "code": "672107",
+        "title": "Special Class Electrician"
+    },
+    {
+        "code": "672108",
+        "title": "Radiotrician"
+    },
+    {
+        "code": "672201",
+        "title": "Data and Telecommunications Cabler"
+    },
+    {
+        "code": "672202",
+        "title": "Telecommunications Cable Jointer"
+    },
+    {
+        "code": "672203",
+        "title": "Computer Engineering Mechanic / Service Person"
+    },
+    {
+        "code": "672204",
+        "title": "Telecommunications Line Mechanic"
+    },
+    {
+        "code": "672205",
+        "title": "Telecommunications Technician"
+    },
+    {
+        "code": "672206",
+        "title": "Communications Operator"
+    },
+    {
+        "code": "681101",
+        "title": "Slaughterer"
+    },
+    {
+        "code": "681102",
+        "title": "Red Meat De-boner"
+    },
+    {
+        "code": "681103",
+        "title": "Butcher"
+    },
+    {
+        "code": "681104",
+        "title": "Fishmonger"
+    },
+    {
+        "code": "681105",
+        "title": "Poultry Slaughterer"
+    },
+    {
+        "code": "681201",
+        "title": "Confectionary Baker"
+    },
+    {
+        "code": "681202",
+        "title": "Pastry Cook"
+    },
+    {
+        "code": "681203",
+        "title": "Confectionery Maker"
+    },
+    {
+        "code": "681301",
+        "title": "Dairyman"
+    },
+    {
+        "code": "681401",
+        "title": "Fruit or Vegetable Preserver"
+    },
+    {
+        "code": "681402",
+        "title": "Oil Expeller"
+    },
+    {
+        "code": "681403",
+        "title": "Jam Maker"
+    },
+    {
+        "code": "681501",
+        "title": "Cheese Grader / Tester"
+    },
+    {
+        "code": "681502",
+        "title": "Food Taster / Grader"
+    },
+    {
+        "code": "681503",
+        "title": "Tea Taster / Grader"
+    },
+    {
+        "code": "681504",
+        "title": "Wine Taster / Grader"
+    },
+    {
+        "code": "681505",
+        "title": "Fruit and Vegetable Grader / Classer"
+    },
+    {
+        "code": "681506",
+        "title": "Livestock Product Analyst"
+    },
+    {
+        "code": "681601",
+        "title": "Cigar Maker"
+    },
+    {
+        "code": "681602",
+        "title": "Green Tobacco Storage Controller / Manager"
+    },
+    {
+        "code": "681603",
+        "title": "Tobacco Processing Machine Operator"
+    },
+    {
+        "code": "682101",
+        "title": "Wood Preparer and Treater"
+    },
+    {
+        "code": "682102",
+        "title": "Plywood and Veneer Maker and Repairer"
+    },
+    {
+        "code": "682201",
+        "title": "Cabinet Maker"
+    },
+    {
+        "code": "682203",
+        "title": "Wood Model Maker"
+    },
+    {
+        "code": "682301",
+        "title": "Furniture Finisher"
+    },
+    {
+        "code": "682302",
+        "title": "Picture Framer"
+    },
+    {
+        "code": "682303",
+        "title": "Wood Machinist"
+    },
+    {
+        "code": "682304",
+        "title": "Wood Turner"
+    },
+    {
+        "code": "682305",
+        "title": "Cooper"
+    },
+    {
+        "code": "683101",
+        "title": "Tailor"
+    },
+    {
+        "code": "683102",
+        "title": "Furrier"
+    },
+    {
+        "code": "683103",
+        "title": "Hat Maker"
+    },
+    {
+        "code": "683104",
+        "title": "Wig Maker"
+    },
+    {
+        "code": "683201",
+        "title": "Clothing, Home Textiles and General Goods Cutter"
+    },
+    {
+        "code": "683202",
+        "title": "Apparel and related pattern maker"
+    },
+    {
+        "code": "683301",
+        "title": "Canvas Goods Maker"
+    },
+    {
+        "code": "683302",
+        "title": "Sail Maker"
+    },
+    {
+        "code": "683303",
+        "title": "Textile Produce Mender and Embroiderer"
+    },
+    {
+        "code": "683401",
+        "title": "Upholsterer"
+    },
+    {
+        "code": "683402",
+        "title": "Bed Maker"
+    },
+    {
+        "code": "683501",
+        "title": "Fellmonger"
+    },
+    {
+        "code": "683502",
+        "title": "Tanner"
+    },
+    {
+        "code": "683503",
+        "title": "Pelt Grader"
+    },
+    {
+        "code": "683601",
+        "title": "Shoemaker"
+    },
+    {
+        "code": "684101",
+        "title": "Diver"
+    },
+    {
+        "code": "684201",
+        "title": " Mining Blaster"
+    },
+    {
+        "code": "684202",
+        "title": "Blaster"
+    },
+    {
+        "code": "684301",
+        "title": "Crop Produce Analyst"
+    },
+    {
+        "code": "684302",
+        "title": "Tobacco Grader"
+    },
+    {
+        "code": "684303",
+        "title": "Cotton Grader"
+    },
+    {
+        "code": "684304",
+        "title": "Wool Classer / Grader"
+    },
+    {
+        "code": "684305",
+        "title": "Quality Controller (Manufacturing)"
+    },
+    {
+        "code": "684401",
+        "title": "Pest or Weed Controller"
+    },
+    {
+        "code": "684901",
+        "title": "Textile, Clothing, Footwear and Leather Processing Machine Mechanic"
+    },
+    {
+        "code": "684902",
+        "title": "Farrier"
+    },
+    {
+        "code": "684904",
+        "title": "Panelbeater"
+    },
+    {
+        "code": "684905",
+        "title": "Vehicle Body Builder"
+    },
+    {
+        "code": "684906",
+        "title": "Vehicle Trimmer"
+    },
+    {
+        "code": "684907",
+        "title": "Boatbuilder and Repairer"
+    },
+    {
+        "code": "684908",
+        "title": "Shipwright"
+    },
+    {
+        "code": "684909",
+        "title": "Survival Equipment Fitter"
+    },
+    {
+        "code": "684910",
+        "title": "Ammunition Fitter"
+    },
+    {
+        "code": "684911",
+        "title": "Florist"
+    },
+    {
+        "code": "684912",
+        "title": "Photographer's Assistant"
+    },
+    {
+        "code": "684913",
+        "title": "Melter"
+    },
+    {
+        "code": "684914",
+        "title": "Textile Machine Mechanic"
+    },
+    {
+        "code": "711101",
+        "title": "Mining Operator"
+    },
+    {
+        "code": "711102",
+        "title": "Shotcreter"
+    },
+    {
+        "code": "711201",
+        "title": "Mineral Processing Plant Operator"
+    },
+    {
+        "code": "711202",
+        "title": "Jewellery Processing and Finishing Machine Operator"
+    },
+    {
+        "code": "711203",
+        "title": "Diamond Cutter and Polisher"
+    },
+    {
+        "code": "711204",
+        "title": "Gemstone Cutter"
+    },
+    {
+        "code": "711205",
+        "title": "Gemstone Machine Operator"
+    },
+    {
+        "code": "711301",
+        "title": "Driller"
+    },
+    {
+        "code": "711302",
+        "title": "Rock Drill Operator"
+    },
+    {
+        "code": "711401",
+        "title": "Concrete Products Machine Operator"
+    },
+    {
+        "code": "711402",
+        "title": "Glass, Clay and Stone Manufacturing Machine Setter and Minder"
+    },
+    {
+        "code": "711403",
+        "title": "Plaster Machine Operator"
+    },
+    {
+        "code": "711404",
+        "title": "Cement Production Plant Operator"
+    },
+    {
+        "code": "711405",
+        "title": "Concrete Batching Plant Operator"
+    },
+    {
+        "code": "711406",
+        "title": "Industrial Diamond Polishing Machine Operator"
+    },
+    {
+        "code": "712101",
+        "title": "Metal Processing Plant Operator"
+    },
+    {
+        "code": "712102",
+        "title": "Metal Manufacturing Machine Setter and Minder"
+    },
+    {
+        "code": "712103",
+        "title": "Abrasive Wheel Maker"
+    },
+    {
+        "code": "712104",
+        "title": "Brake Lining Maker"
+    },
+    {
+        "code": "712201",
+        "title": "Electroplater"
+    },
+    {
+        "code": "713101",
+        "title": "Chemical Production Machine Operator"
+    },
+    {
+        "code": "713201",
+        "title": "Photographic Developer and Printer"
+    },
+    {
+        "code": "714101",
+        "title": "Rubber Production Machine Operator"
+    },
+    {
+        "code": "714102",
+        "title": "Rubber Manufacturing Machine Setter and Minder"
+    },
+    {
+        "code": "714201",
+        "title": "Plastic Cablemaking Machine Operator"
+    },
+    {
+        "code": "714202",
+        "title": "Plastic Compounding and Reclamation Machine Operator"
+    },
+    {
+        "code": "714203",
+        "title": "Plastics Fabricator or Welder"
+    },
+    {
+        "code": "714204",
+        "title": "Plastics Production Machine Operator (General)"
+    },
+    {
+        "code": "714205",
+        "title": "Reinforced Plastic and Composite Production Worker"
+    },
+    {
+        "code": "714206",
+        "title": "Rotational Moulding Operator (Plastics)"
+    },
+    {
+        "code": "714207",
+        "title": "Thermoforming Machine Operator"
+    },
+    {
+        "code": "714208",
+        "title": "Plastics Manufacturing Machine Minder"
+    },
+    {
+        "code": "714209",
+        "title": "Reinforced Plastics and Composite Trades Worker"
+    },
+    {
+        "code": "714301",
+        "title": "Paper Products Machine Operator"
+    },
+    {
+        "code": "715101",
+        "title": "Fibre Preparation Production Machine Operator"
+    },
+    {
+        "code": "715102",
+        "title": "Yarn Production Machine Operator"
+    },
+    {
+        "code": "715103",
+        "title": "Man-made Fibre Production Machine Operator"
+    },
+    {
+        "code": "715201",
+        "title": "Weaving Machine Operator"
+    },
+    {
+        "code": "715202",
+        "title": "Warping Machine Operator"
+    },
+    {
+        "code": "715203",
+        "title": "Braiding Machine Operator"
+    },
+    {
+        "code": "715204",
+        "title": "Knitting Machine Operator"
+    },
+    {
+        "code": "715205",
+        "title": "Non-woven Machine Operator"
+    },
+    {
+        "code": "715206",
+        "title": "Textile Dry Finishing Machine Operator"
+    },
+    {
+        "code": "715301",
+        "title": "Sewing Machine Operator"
+    },
+    {
+        "code": "715302",
+        "title": "Clothing, Textile and Leather Goods Production Operator"
+    },
+    {
+        "code": "715401",
+        "title": "Textile Wet Process Production Operator"
+    },
+    {
+        "code": "715501",
+        "title": "Leather Processing Machine Operator"
+    },
+    {
+        "code": "715601",
+        "title": "Footwear Cutting Production Machine Operator"
+    },
+    {
+        "code": "715602",
+        "title": "Footwear Closing Production Machine Operator"
+    },
+    {
+        "code": "715603",
+        "title": "Footwear Bottom Stock Production Machine Operator"
+    },
+    {
+        "code": "715604",
+        "title": "Footwear Lasting Production Machine Operator"
+    },
+    {
+        "code": "715605",
+        "title": "Footwear Finishing Production Machine Operator"
+    },
+    {
+        "code": "715701",
+        "title": "Laundry and Dry Cleaning Machine Operator"
+    },
+    {
+        "code": "715901",
+        "title": "Textile and Footwear Manufacturing Machine Minder"
+    },
+    {
+        "code": "716101",
+        "title": "Fruit and Vegetable Processing Machine Operator"
+    },
+    {
+        "code": "716102",
+        "title": "Distillery Process Machine Operator"
+    },
+    {
+        "code": "716103",
+        "title": "Juice Extraction and Blending Process Machine Operator"
+    },
+    {
+        "code": "716104",
+        "title": "Dairy Products Machine Operator"
+    },
+    {
+        "code": "716105",
+        "title": "Bakery and Confectionary Products Machine Operator"
+    },
+    {
+        "code": "716106",
+        "title": "Sugar Processing Machine Operator"
+    },
+    {
+        "code": "716107",
+        "title": "Coffee and Tea Processing Machine Operator"
+    },
+    {
+        "code": "716108",
+        "title": "Seed Processing Machine Operator"
+    },
+    {
+        "code": "716109",
+        "title": "Milling Process Machine Operator"
+    },
+    {
+        "code": "716110",
+        "title": "Tobacco Product Processing Machine Operator"
+    },
+    {
+        "code": "716111",
+        "title": "Meat Processing Machine Operator"
+    },
+    {
+        "code": "716112",
+        "title": "Seafood Processing Machine Operator"
+    },
+    {
+        "code": "716113",
+        "title": "Grain Handling Operator"
+    },
+    {
+        "code": "716114",
+        "title": "Sparkling Soft drink process machine operator"
+    },
+    {
+        "code": "716115",
+        "title": "Wine processing machine operator"
+    },
+    {
+        "code": "716116",
+        "title": "Cereals, snacks, pasta and condiments machine process operator"
+    },
+    {
+        "code": "716117",
+        "title": "Brew house Process Machine Operator"
+    },
+    {
+        "code": "716118",
+        "title": "Food and Beverage Process Operator"
+    },
+    {
+        "code": "717101",
+        "title": "Wood and Paper Manufacturing Machine Minder"
+    },
+    {
+        "code": "717102",
+        "title": "Paper and Pulp Mill Operator"
+    },
+    {
+        "code": "717201",
+        "title": "Wood Processing Machine Operator"
+    },
+    {
+        "code": "718101",
+        "title": "Clay Production Machine Operator"
+    },
+    {
+        "code": "718102",
+        "title": "Glass Production Machine Operator"
+    },
+    {
+        "code": "718103",
+        "title": "Glass Process Operator"
+    },
+    {
+        "code": "718201",
+        "title": "Boiler or Engine Operator"
+    },
+    {
+        "code": "718301",
+        "title": "Labelling Machine Operator"
+    },
+    {
+        "code": "718302",
+        "title": "Packing Machine Operator"
+    },
+    {
+        "code": "718303",
+        "title": "Filling Line Operator"
+    },
+    {
+        "code": "718304",
+        "title": "Packaging Manufacturing Machine Minder"
+    },
+    {
+        "code": "718901",
+        "title": "Silicon Chip Production Machine Operator"
+    },
+    {
+        "code": "718902",
+        "title": "Cable and Rope Splicing Machine Operator"
+    },
+    {
+        "code": "718903",
+        "title": "Cable Manufacturing Machine Minder"
+    },
+    {
+        "code": "718904",
+        "title": "Integrated Manufacturing Line Machine Setter"
+    },
+    {
+        "code": "718905",
+        "title": "Engineering Production Systems Worker"
+    },
+    {
+        "code": "718906",
+        "title": "Bulk Materials Handling Plant Operator"
+    },
+    {
+        "code": "718907",
+        "title": "Weighbridge Operator"
+    },
+    {
+        "code": "718908",
+        "title": "Car Compactor Operator"
+    },
+    {
+        "code": "718909",
+        "title": "Lighthouse Keeper"
+    },
+    {
+        "code": "718910",
+        "title": "Lock Master (Water Transport)"
+    },
+    {
+        "code": "718911",
+        "title": "Snow Maker"
+    },
+    {
+        "code": "718912",
+        "title": "Wash Plant Operator"
+    },
+    {
+        "code": "718913",
+        "title": "Motion Picture Projectionist"
+    },
+    {
+        "code": "718914",
+        "title": "Sand Blaster"
+    },
+    {
+        "code": "718915",
+        "title": "Venetian Blind Machine Operator"
+    },
+    {
+        "code": "721101",
+        "title": "Machinery Assembler"
+    },
+    {
+        "code": "721201",
+        "title": "Electrical and Electronic Equipment Assembler"
+    },
+    {
+        "code": "721901",
+        "title": "Product Assembler"
+    },
+    {
+        "code": "731101",
+        "title": "Train Driver"
+    },
+    {
+        "code": "731102",
+        "title": "Tram Driver"
+    },
+    {
+        "code": "731201",
+        "title": "Railway Signal Operator"
+    },
+    {
+        "code": "731202",
+        "title": "Train Controller"
+    },
+    {
+        "code": "732101",
+        "title": "Delivery Driver"
+    },
+    {
+        "code": "732102",
+        "title": "Delivery Driver (Motorcycle)"
+    },
+    {
+        "code": "732201",
+        "title": "Chauffeur"
+    },
+    {
+        "code": "732202",
+        "title": "Taxi Driver"
+    },
+    {
+        "code": "732203",
+        "title": "Emergency Vehicle Drivers"
+    },
+    {
+        "code": "732204",
+        "title": "Oversize Load Pilot / Escort"
+    },
+    {
+        "code": "733101",
+        "title": "Bus Driver"
+    },
+    {
+        "code": "733102",
+        "title": "Charter and Tour Bus Driver"
+    },
+    {
+        "code": "733103",
+        "title": "Passenger Coach Driver"
+    },
+    {
+        "code": "733201",
+        "title": "Truck Driver (General)"
+    },
+    {
+        "code": "733202",
+        "title": "Aircraft Refueller"
+    },
+    {
+        "code": "733203",
+        "title": "Furniture Removalist"
+    },
+    {
+        "code": "733204",
+        "title": "Tanker Driver"
+    },
+    {
+        "code": "733205",
+        "title": "Tow Truck Driver"
+    },
+    {
+        "code": "733206",
+        "title": "Armoured Personnel Carrier Operator"
+    },
+    {
+        "code": "733207",
+        "title": "Snow Groomer"
+    },
+    {
+        "code": "733208",
+        "title": "Mobile Mining Equipment Operator"
+    },
+    {
+        "code": "733209",
+        "title": "Linemarker"
+    },
+    {
+        "code": "733210",
+        "title": "Road Construction Plant Operator"
+    },
+    {
+        "code": "733211",
+        "title": "Remotely Operated Vehicle (ROV) Pilot"
+    },
+    {
+        "code": "734101",
+        "title": "Agricultural Mobile Plant (Equipment) Operator"
+    },
+    {
+        "code": "734102",
+        "title": "Logging Plant Operator"
+    },
+    {
+        "code": "734201",
+        "title": "Earthmoving Plant Operator (General)"
+    },
+    {
+        "code": "734202",
+        "title": "Backhoe Operator"
+    },
+    {
+        "code": "734203",
+        "title": "Bulldozer Operator"
+    },
+    {
+        "code": "734204",
+        "title": "Excavator Operator"
+    },
+    {
+        "code": "734205",
+        "title": "Grader Operator"
+    },
+    {
+        "code": "734206",
+        "title": "Loader Operator"
+    },
+    {
+        "code": "734207",
+        "title": "Mulcher Operator"
+    },
+    {
+        "code": "734208",
+        "title": "Tunnelling Machine Operator"
+    },
+    {
+        "code": "734209",
+        "title": "Mobile Explosives Manufacturing Unit (MEMU) Operator"
+    },
+    {
+        "code": "734210",
+        "title": "Scraper Operator"
+    },
+    {
+        "code": "734211",
+        "title": "Dragline Operator"
+    },
+    {
+        "code": "734212",
+        "title": "Railway Track Master"
+    },
+    {
+        "code": "734213",
+        "title": "Road Roller Operator"
+    },
+    {
+        "code": "734214",
+        "title": "Dump Truck Operator"
+    },
+    {
+        "code": "734301",
+        "title": "Crane or Hoist Operator"
+    },
+    {
+        "code": "734302",
+        "title": "Cable Ferry Operator"
+    },
+    {
+        "code": "734303",
+        "title": "Dredge Operator"
+    },
+    {
+        "code": "734401",
+        "title": "Lift Operator"
+    },
+    {
+        "code": "734402",
+        "title": "Forklift Driver"
+    },
+    {
+        "code": "734403",
+        "title": "Straddle Carrier Operator"
+    },
+    {
+        "code": "735101",
+        "title": "Deck Hand"
+    },
+    {
+        "code": "735102",
+        "title": "Jetty Operator"
+    },
+    {
+        "code": "811101",
+        "title": "Domestic Cleaner"
+    },
+    {
+        "code": "811201",
+        "title": "Commercial Cleaner"
+    },
+    {
+        "code": "811202",
+        "title": "Healthcare Cleaner"
+    },
+    {
+        "code": "811203",
+        "title": "Tea Attendant"
+    },
+    {
+        "code": "811204",
+        "title": "Caretaker / cleaner"
+    },
+    {
+        "code": "812101",
+        "title": "Laundry Worker (General)"
+    },
+    {
+        "code": "812103",
+        "title": "Ironer or Presser"
+    },
+    {
+        "code": "812104",
+        "title": "Carpet Cleaner"
+    },
+    {
+        "code": "812201",
+        "title": "Vehicle Detailer (Valet Servicer)"
+    },
+    {
+        "code": "812301",
+        "title": "Window Cleaner"
+    },
+    {
+        "code": "812901",
+        "title": "Septic Tank Cleaner"
+    },
+    {
+        "code": "812902",
+        "title": "Swimming Pool Cleaner"
+    },
+    {
+        "code": "812903",
+        "title": "Washroom Attendant"
+    },
+    {
+        "code": "812904",
+        "title": "Sterilisation Technician"
+    },
+    {
+        "code": "821101",
+        "title": "Crop Production Farm Worker / Assistant"
+    },
+    {
+        "code": "821102",
+        "title": "Irrigationist"
+    },
+    {
+        "code": "821103",
+        "title": "Scout"
+    },
+    {
+        "code": "821104",
+        "title": "Harvester / Picker"
+    },
+    {
+        "code": "821105",
+        "title": "Pruner"
+    },
+    {
+        "code": "821201",
+        "title": "Livestock Farm Worker / Assistant"
+    },
+    {
+        "code": "821202",
+        "title": "Insect Farm Worker / Assistant"
+    },
+    {
+        "code": "821203",
+        "title": "Game Farm Worker / Assistant"
+    },
+    {
+        "code": "821204",
+        "title": "Poultry, Ratites or Avian Farm Worker / Assistant"
+    },
+    {
+        "code": "821205",
+        "title": "Wool Handler"
+    },
+    {
+        "code": "821301",
+        "title": "Mixed Crop and Livestock Farm Worker / Assistant"
+    },
+    {
+        "code": "821401",
+        "title": "Garden Workers"
+    },
+    {
+        "code": "821402",
+        "title": "Ornamental Horticultural or Nursery Assistant"
+    },
+    {
+        "code": "821403",
+        "title": "Indoor Plant Worker"
+    },
+    {
+        "code": "821501",
+        "title": "Forestry Worker"
+    },
+    {
+        "code": "821502",
+        "title": "Logging Assistant"
+    },
+    {
+        "code": "821601",
+        "title": "Fishing Hand"
+    },
+    {
+        "code": "821602",
+        "title": "Aquaculture Farm Worker / Assistant"
+    },
+    {
+        "code": "831101",
+        "title": "Mining Support Worker"
+    },
+    {
+        "code": "831102",
+        "title": "Driller's Assistant"
+    },
+    {
+        "code": "831103",
+        "title": "Mineral Beneficiation Plant Worker"
+    },
+    {
+        "code": "831104",
+        "title": "Mining Spotter Controller"
+    },
+    {
+        "code": "831301",
+        "title": "Builder's Worker"
+    },
+    {
+        "code": "831302",
+        "title": "Drainage, Sewerage and Storm Water Worker"
+    },
+    {
+        "code": "831303",
+        "title": "Earthmoving Worker"
+    },
+    {
+        "code": "831304",
+        "title": "Plumber's Assistant"
+    },
+    {
+        "code": "831305",
+        "title": "Cement and Concrete Plant Worker"
+    },
+    {
+        "code": "831306",
+        "title": "Paving and Surfacing Worker"
+    },
+    {
+        "code": "831307",
+        "title": "Railway Track Worker"
+    },
+    {
+        "code": "831308",
+        "title": "Crane Chaser"
+    },
+    {
+        "code": "831309",
+        "title": "Lagger"
+    },
+    {
+        "code": "831310",
+        "title": "Surveyor's Assistant"
+    },
+    {
+        "code": "831311",
+        "title": "Fencer"
+    },
+    {
+        "code": "831312",
+        "title": "Sign Erector"
+    },
+    {
+        "code": "831313",
+        "title": "Water Process Worker"
+    },
+    {
+        "code": "832101",
+        "title": "Packer (Non Perishable Products)"
+    },
+    {
+        "code": "832102",
+        "title": "Meat Packer"
+    },
+    {
+        "code": "832103",
+        "title": "Fish or Seafood Packer"
+    },
+    {
+        "code": "832104",
+        "title": "Cheese Packer"
+    },
+    {
+        "code": "832901",
+        "title": "Metal Engineering Process Worker"
+    },
+    {
+        "code": "832902",
+        "title": "Plastics, Composites and Rubber Factory Worker"
+    },
+    {
+        "code": "832903",
+        "title": "Timber and Wood Process Worker"
+    },
+    {
+        "code": "832904",
+        "title": "Food and Beverage Factory Worker"
+    },
+    {
+        "code": "832905",
+        "title": "Footwear and Leather Factory Worker"
+    },
+    {
+        "code": "832906",
+        "title": "Glass Processing Worker"
+    },
+    {
+        "code": "832907",
+        "title": "Chemical Plant Worker"
+    },
+    {
+        "code": "832908",
+        "title": "Clay Processing Factory Worker"
+    },
+    {
+        "code": "832909",
+        "title": "Textile, Clothing and Footwear Factory Worker"
+    },
+    {
+        "code": "832910",
+        "title": "Component Fitter"
+    },
+    {
+        "code": "833301",
+        "title": "Freight Handler (Rail or Road)"
+    },
+    {
+        "code": "833302",
+        "title": "Truck Driver's Offsider"
+    },
+    {
+        "code": "833303",
+        "title": "Waterside Worker"
+    },
+    {
+        "code": "833304",
+        "title": "Airline Ground Crew"
+    },
+    {
+        "code": "833401",
+        "title": "Shelf Filler"
+    },
+    {
+        "code": "833402",
+        "title": "Store Person"
+    },
+    {
+        "code": "841101",
+        "title": "Fast Food Cook"
+    },
+    {
+        "code": "841201",
+        "title": "Kitchenhand"
+    },
+    {
+        "code": "841202",
+        "title": "Food Trade Assistant"
+    },
+    {
+        "code": "851101",
+        "title": "Car Park Attendant"
+    },
+    {
+        "code": "851102",
+        "title": "Leaflet or Newspaper Deliverer"
+    },
+    {
+        "code": "852101",
+        "title": "Street Vendor"
+    },
+    {
+        "code": "861101",
+        "title": "Recycling or Rubbish Collector"
+    },
+    {
+        "code": "861201",
+        "title": "Refuse Sorter"
+    },
+    {
+        "code": "861202",
+        "title": "Waste Material Sorter and Classifier"
+    },
+    {
+        "code": "861301",
+        "title": "Street Sweeper Operator"
+    },
+    {
+        "code": "862101",
+        "title": "Busser"
+    },
+    {
+        "code": "862102",
+        "title": "Luggage Porter"
+    },
+    {
+        "code": "862103",
+        "title": "Cloak Room Attendant"
+    },
+    {
+        "code": "862104",
+        "title": "Hotel Cellar Hand"
+    },
+    {
+        "code": "862201",
+        "title": "Home Improvement Installer"
+    },
+    {
+        "code": "862202",
+        "title": "Handyperson"
+    },
+    {
+        "code": "862301",
+        "title": "Meter Reader"
+    },
+    {
+        "code": "862302",
+        "title": "Vending Machine Attendant"
+    },
+    {
+        "code": "862913",
+        "title": "Event Assistant"
+    },
+    {
+        "code": "862914",
+        "title": "Sheltered Workshop Worker"
+    },
+    {
+        "code": "862915",
+        "title": "Chemical Mixer"
+    },
+    {
+        "code": "862916",
+        "title": "Farm Maintenance Worker"
+    },
+    {
+        "code": "862917",
+        "title": "Crossing Supervisor"
+    },
+    {
+        "code": "862918",
+        "title": "Electrical or Telecommunications Trades Assistant"
+    },
+    {
+        "code": "862919",
+        "title": "Mechanic Trade Assistant"
+    },
+    {
+        "code": "862920",
+        "title": "Railways Assistant"
+    },
+    {
+        "code": "862922",
+        "title": "Electronics and Telecommunications Trades Assistant"
+    },
+    {
+        "code": "862923",
+        "title": "Trolley Collector"
+    },
+    {
+        "code": "862924",
+        "title": "Stage or Studio Hand"
+    },
+    {
+        "code": "862925",
+        "title": "Caddie"
+    },
+    {
+        "code": "862926",
+        "title": "Ticket Collector"
+    },
+    {
+        "code": "862927",
+        "title": "Borehole Pump Operator "
+    }
+]

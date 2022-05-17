@@ -1,0 +1,24 @@
+.OfoItem {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    padding: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+
+    & > div {
+        text-align: left;
+        margin-left: 0px;
+        & > button {
+            margin-left: 0px;
+        }
+        &:first-of-type {
+            flex: 1;
+        }
+    }
+
+    & + div {
+        border-top: 1px solid #eee;
+    }
+}
