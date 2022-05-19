@@ -8,6 +8,7 @@ import Shop from './routes/Shop/Shop';
 import Checkout from './routes/Checkout/Checkout';
 import Ofo from './components/Ofo/Ofo';
 import PostsList from './components/PostsList/PostsList';
+import OfoPage from './routes/OfoPage/OfoPage';
 
 const App = () => {
     return (
@@ -18,15 +19,7 @@ const App = () => {
                     <Route path="auth" element={<Auth />} />
                     <Route path="shop/*" element={<Shop />} />
                     <Route path="checkout" element={<Checkout />} />
-                    <Route
-                        path="ofo"
-                        element={
-                            <React.Fragment>
-                                <Ofo />
-                                <PostsList />
-                            </React.Fragment>
-                        }
-                    />
+                    <Route path="ofo" element={<OfoPage />} />
                 </Route>
             </Routes>
         </div>

@@ -1,9 +1,11 @@
 import React, { FC } from 'react';
-import { nanoid } from '@reduxjs/toolkit';
 import { useDispatch } from 'react-redux';
-import { occupationInterface, setOfo } from '../../features/ofo/ofoSlice';
+import {
+    occupationInterface,
+    setOfo,
+    fetchOfoByCode,
+} from '../../features/ofo/ofoSlice';
 import { postAdded } from '../../features/posts/postsSlice';
-import { fetchOfo } from '../../features/ofo/ofoApi';
 import styles from './OfoItem.module.scss';
 import Button from '../Button/Button';
 
@@ -14,9 +16,8 @@ interface OfoItemProps {
 const OfoItem: FC<OfoItemProps> = ({ occupation }: OfoItemProps) => {
     const dispatch = useDispatch();
 
-    const onLoadOccupations = async (code: string = '') => {
-        const fetchedData = await fetchOfo(code);
-        dispatch(setOfo({ occupations: fetchedData.data }));
+    const onLoadOccupations = (code: string = '') => {
+        dispatch(fetchOfoByCode(code));
     };
 
     const onAddPost = () => {

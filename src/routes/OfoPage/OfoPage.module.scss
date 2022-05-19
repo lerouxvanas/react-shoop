@@ -1,0 +1,11 @@
+.OfoPage {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    //position: relative;
+    & > div {
+        &:first-of-type {
+            border-right: 1px solid #eee;
+        }
+    }
+}

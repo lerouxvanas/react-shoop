@@ -10,7 +10,9 @@ const PostsList: FC<PostsListProps> = (props: PostsListProps) => {
     return (
         <div className={styles.PostsList} data-testid="PostsList">
             {posts.map((post: postInterface) => (
-                <div key={post.id}>{post.title}</div>
+                <div key={post.id}>
+                    <strong>{post.code}</strong> - <span>{post.title}</span>
+                </div>
             ))}
         </div>
     );

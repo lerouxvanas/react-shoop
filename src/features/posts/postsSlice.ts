@@ -12,9 +12,7 @@ export interface postInterface {
     title: string;
 }
 
-const initialState: postInterface[] = [
-    { id: '1', code: '000000', title: 'Test post one' },
-];
+const initialState: postInterface[] = [];
 
 const postsSlice = createSlice({
     name: 'posts',

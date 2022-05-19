@@ -1,4 +1,5 @@
 // A mock function to mimic making an async request for data
+import { rejects } from 'assert';
 import ofo1 from './ofoData/ofo_1.json';
 import ofo2 from './ofoData/ofo_2.json';
 import ofo3 from './ofoData/ofo_3.json';
@@ -11,7 +12,7 @@ import alternativeTitle from './ofoData/ofo_9_alternativeTitle.json';
 import { occupationInterface } from './ofoSlice';
 
 export function fetchOfo(id: string = '') {
-    return new Promise<{ data: occupationInterface[] }>((resolve) => {
+    return new Promise<{ data: occupationInterface[] }>((resolve, reject) => {
         let data = [];
 
         setTimeout(() => {
@@ -59,6 +60,8 @@ export function fetchOfo(id: string = '') {
                                 descriptor: getDescriptor(item.code),
                             })),
                     });
+                default:
+                    return reject({ msg: 'Code not found' });
             }
         }, 50);
     });
