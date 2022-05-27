@@ -63,7 +63,7 @@ export function fetchOfo(id: string = '') {
                 default:
                     return reject({ msg: 'Code not found' });
             }
-        }, 50);
+        }, 200);
     });
 }
 

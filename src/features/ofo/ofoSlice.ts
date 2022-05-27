@@ -28,8 +28,12 @@ const initialState: stateInterface = {
 export const fetchOfoByCode: any = createAsyncThunk(
     'ofo/fetchOfoByCode',
     async (ofoCode: string) => {
-        const fetchedData = await fetchOfo(ofoCode);
-        return { occupations: fetchedData.data };
+        try {
+            const fetchedData = await fetchOfo(ofoCode);
+            return { occupations: fetchedData.data };
+        } catch (e: any) {
+            throw new Error(e.msg);
+        }
     }
 );
 
@@ -46,11 +50,17 @@ export const ofoSlice = createSlice({
     },
     extraReducers: (builder) => {
         builder
-            .addCase(fetchOfoByCode.pending, (state) => {
+            .addCase(fetchOfoByCode.pending, (state, action) => {
                 state.loading = 'pending';
+                state.error = null;
             })
             .addCase(fetchOfoByCode.fulfilled, (state, action) => {
-                return { ...state, ...action.payload, loading: 'succeeded' };
+                return {
+                    ...state,
+                    ...action.payload,
+                    loading: 'succeeded',
+                    error: null,
+                };
             })
             .addCase(fetchOfoByCode.rejected, (state, action) => {
                 state.loading = 'failed';

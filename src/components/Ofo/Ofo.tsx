@@ -5,8 +5,10 @@ import {
     occupationInterface,
     fetchOfoByCode,
     selectOfoOccupations,
+    selectOfoStatus,
 } from '../../features/ofo/ofoSlice';
 import Button from '../Button/Button';
+import Autocomplete from '../Autocomplete/Autocomplete';
 
 import styles from './Ofo.module.scss';
 import OfoItem from '../OfoItem/OfoItem';
@@ -15,6 +17,7 @@ interface OfoProps {}
 
 const Ofo: FC<OfoProps> = (props: OfoProps) => {
     const occupations = useSelector(selectOfoOccupations);
+    const ofoStatus = useSelector(selectOfoStatus);
     const dispatch = useDispatch();
 
     const onLoadOccupations = async (code: string = '') => {
@@ -22,12 +25,26 @@ const Ofo: FC<OfoProps> = (props: OfoProps) => {
     };
 
     useEffect(() => {
-        console.log('ofo start');
-        onLoadOccupations('');
-    }, []);
+        if (ofoStatus === 'idle') {
+            console.log('start');
+            onLoadOccupations('');
+        }
+    }, [ofoStatus, dispatch]);
 
     return (
-        <div className={styles.Ofo} data-testid="Ofo">
+        <div
+            className={styles.Ofo}
+            style={{ opacity: `${ofoStatus === 'pending' ? '0.3' : '1'}` }}
+            data-testid="Ofo">
+            <Autocomplete
+                disablePortal={true}
+                id="combo-box-demo"
+                options={occupations.map((item: any) => ({
+                    label: `${item.code} - ${item.title}`,
+                    code: item.code,
+                }))}
+                label="Occupations"
+            />
             <section>
                 {occupations.map((occupation: occupationInterface) => (
                     <OfoItem key={occupation?.code} occupation={occupation} />
